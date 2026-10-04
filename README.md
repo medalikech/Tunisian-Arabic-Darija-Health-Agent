@@ -190,10 +190,3 @@ python src\interface\cli.py --debug
 
 ---
 
-## 9. Possible next steps
-
-- Collect or simulate longer multi-turn conversations and add conversation memory to the router.
-- Expand the knowledge base and seed set per intent (the single highest-leverage lever found during this project).
-- Try a dialect-specific embedding/LLM pair if one becomes available, to address the drift and reliability issues documented above.
-- Add a lightweight web or messaging-app front end (e.g. Telegram) in place of the CLI.
-- Replace placeholder content in `src/safety/emergency_responses.py` with verified, current local emergency and crisis-line contact numbers before any real-world use.
