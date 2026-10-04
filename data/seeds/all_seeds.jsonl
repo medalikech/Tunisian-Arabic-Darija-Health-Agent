@@ -1,0 +1,241 @@
+{"id": "missed_dose_01", "text": "nsit nechreb ed-dwa lyoum", "intent": "missed_dose", "source": "human"}
+{"id": "missed_dose_02", "text": "ما شربتش الدواء اليوم", "intent": "missed_dose", "source": "human"}
+{"id": "missed_dose_03", "text": "3andi joumla nsit nakhod comprimé mte3i", "intent": "missed_dose", "source": "human"}
+{"id": "missed_dose_04", "text": "nsitou el brovera mte3 sokkar", "intent": "missed_dose", "source": "human"}
+{"id": "missed_dose_05", "text": "ما خدمتش الدواء الصباح", "intent": "missed_dose", "source": "human"}
+{"id": "missed_dose_06", "text": "rani nsit el matin ma chribtch dwa", "intent": "missed_dose", "source": "human"}
+{"id": "missed_dose_07", "text": "حبيت نقلك نسيت نشرب دوائي اليوم", "intent": "missed_dose", "source": "human"}
+{"id": "missed_dose_08", "text": "5altou fi rasi w nsit ed dawa", "intent": "missed_dose", "source": "human"}
+{"id": "missed_dose_09", "text": "ma 3malتش prise mte3 sbe7", "intent": "missed_dose", "source": "human"}
+{"id": "missed_dose_10", "text": "nsit ta5od les comprimés lyoum el 3achiya", "intent": "missed_dose", "source": "human"}
+{"id": "missed_dose_11", "text": "راني اليوم نسيت تماما الدواء", "intent": "missed_dose", "source": "human"}
+{"id": "missed_dose_12", "text": "oups nsit nechrob dwa el sbeh", "intent": "missed_dose", "source": "human"}
+{"id": "missed_dose_13", "text": "had el joumla ma 5dmetch dwa", "intent": "missed_dose", "source": "human"}
+{"id": "missed_dose_14", "text": "bonjour doctor jitek lyoum mridh", "intent": "missed_dose", "source": "human"}
+{"id": "report_symptom_01", "text": "3andi ka77a w wji3a f grejmi", "intent": "report_symptom", "source": "human"}
+{"id": "missed_dose_15", "text": "nhes b 9albi se3at ydo9 a9wa", "intent": "missed_dose", "source": "human"}
+{"id": "missed_dose_16", "text": "wlhi labes ama fech chwaya", "intent": "missed_dose", "source": "human"}
+{"id": "missed_dose_17", "text": "ma3titnich dwe", "intent": "missed_dose", "source": "human"}
+{"id": "ask_side_effect_01", "text": "had dawa 3taani dawra fi rassi", "intent": "ask_side_effect", "source": "human"}
+{"id": "ask_side_effect_02", "text": "نحس بغثيان من بعد الدواء", "intent": "ask_side_effect", "source": "human"}
+{"id": "report_symptom_02", "text": "نحس بوجع في راسي من الصباح", "intent": "report_symptom", "source": "human"}
+{"id": "missed_dose_18", "text": "nsit el war9a mte3 dwe fel dar", "intent": "missed_dose", "source": "human"}
+{"id": "missed_dose_19", "text": "3titni maw3ed ta7lil w 3mltou", "intent": "missed_dose", "source": "human"}
+{"id": "ask_side_effect_03", "text": "el tension tal3etli chwaya", "intent": "ask_side_effect", "source": "human"}
+{"id": "ask_side_effect_04", "text": "had dawa 3taani dawra fi rassi", "intent": "ask_side_effect", "source": "human"}
+{"id": "ask_side_effect_05", "text": "نحس بغثيان من بعد الدواء", "intent": "ask_side_effect", "source": "human"}
+{"id": "ask_side_effect_06", "text": "el metformine 3taatni el kersa tji w tro7", "intent": "ask_side_effect", "source": "human"}
+{"id": "ask_side_effect_07", "text": "depuis ma bdit ndir le traitement 7assit b vertige", "intent": "ask_side_effect", "source": "human"}
+{"id": "ask_side_effect_08", "text": "nchod dwa w ye5rejli boutoun kbir", "intent": "ask_side_effect", "source": "human"}
+{"id": "ask_side_effect_09", "text": "هل هذا طبيعي نحس بدوخة بعد الدواء", "intent": "ask_side_effect", "source": "human"}
+{"id": "ask_side_effect_10", "text": "3andi diarrhée kol ma nakhod el comprimé", "intent": "ask_side_effect", "source": "human"}
+{"id": "ask_side_effect_11", "text": "dwa e sokkar y3aml goût métallique fi famm", "intent": "ask_side_effect", "source": "human"}
+{"id": "ask_side_effect_12", "text": "chkoun 3andou nafss el mochkla m3a metformine", "intent": "ask_side_effect", "source": "human"}
+{"id": "ask_side_effect_13", "text": "nhes b wjaa fi me3di kol nhar men ba3d dwa", "intent": "ask_side_effect", "source": "human"}
+{"id": "ask_side_effect_14", "text": "est ce que c'est normal navoir pas d'appétit b3d dwa", "intent": "ask_side_effect", "source": "human"}
+{"id": "ask_side_effect_15", "text": "3la9a bel dwa walla 5ater 7aja o5ra نحس بدوخة", "intent": "ask_side_effect", "source": "human"}
+{"id": "ask_side_effect_16", "text": "dwa e sokkar 3malli allergie fi jeldi", "intent": "ask_side_effect", "source": "human"}
+{"id": "ask_side_effect_17", "text": "نتقيأ برشا من بعد ما ناخذ الدواء", "intent": "ask_side_effect", "source": "human"}
+{"id": "ask_side_effect_18", "text": "7assa bel khefa w taniss men ba3d el prise", "intent": "ask_side_effect", "source": "human"}
+{"id": "ask_medication_info_01", "text": "wa9tech lazem nakhod dwa 9bal wala b3d el akla", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_02", "text": "قداش المدة لازم ناخذ هذا الدواء", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_03", "text": "nimsi kifech nakhod el comprimé m3a l'eau wala l7lib", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_04", "text": "est ce que nejem na5od metformine m3a café", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_05", "text": "شنوة الجرعة الصحيحة متاع هذا الدواء", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_06", "text": "dwa el sokkar yetakhod kol nhar wala marra fi jom3a", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_07", "text": "nsit ken lazem na5od 9bal el fetour wala b3dou", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_08", "text": "قداش الوقت بين كل جرعة وجرعة", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_09", "text": "c'est quoi le nom générique mte3 had el dwa", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_10", "text": "نجم نخلط هذا الدواء مع دواء ضغط الدم", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_11", "text": "ken el comprimé standa a3malha n9sam fi jouz", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_12", "text": "el dwa yetakhod barra el akl wala fi wsat el akla", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_13", "text": "شنوة لون الحبة لازم تكون باهي نتأكد", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_14", "text": "est-ce que had el dwa ya5dem m3a jeun", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_15", "text": "نسيت شنوة الفرق بين الجرعة الصغيرة و الكبيرة", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_refill_01", "text": "نحتاج نجدد الوصفة متاع الدواء", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_02", "text": "5last el dwa mte3i lazemni ordonnance jdida", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_03", "text": "ken lazem nmchi l tabib bech na5od ordonnance jdida", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_04", "text": "est ce que nejem na5od renouvellement online", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_05", "text": "باقيلي غير شريط وحد متاع الدواء", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_06", "text": "dwa mte3i wsal fi akhertou lazemni recharge", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_07", "text": "كيفاش نجدد الوصفة الطبية بدون ما نمشي للطبيب", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_08", "text": "j'ai presque fini mon traitement il me faut une ordonnance", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_09", "text": "el pharmacien 9alli lazem ordonnance jdida bech ya3tini dwa", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_10", "text": "نحتاج نعرف كيفاش نطلب الدواء من جديد", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_11", "text": "5last el stock mte3 el metformine fi dar", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_12", "text": "ordonnance mte3i 5al9et validité", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_13", "text": "هل ممكن تبعثلي وصفة جديدة اونلاين", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_14", "text": "dwa mte3i baw t5les lazemni n3awed nchri", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_15", "text": "نلوج نعرف وين نلقى صيدلية فيها الدواء متاعي", "intent": "ask_refill", "source": "human"}
+{"id": "report_symptom_03", "text": "نحس بوجع في راسي من الصباح", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_04", "text": "3andi ka77a w wji3a f grejmi", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_05", "text": "nhes b 9albi se3at ydo9 a9wa", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_06", "text": "rassi ye5taffi w 3andi ta3eb kbir", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_07", "text": "depuis el bare7 3andi wjaa fi dhahri", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_08", "text": "نحس بتعب برشا و مانيش قادر نخدم", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_09", "text": "3andi fièvre men el bare7 el 3achiya", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_10", "text": "rijlaya 3andhom wjaa w wram chwaya", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_11", "text": "نحس بحكة في جلدي من كم يوم", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_12", "text": "7assa b 9archa fi me3di kol nhar", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_13", "text": "j'ai des vertiges depuis ce matin ma navigue pas bien", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_14", "text": "نحس بخدران في يدي من الصباح", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_15", "text": "3andi wjaa fi 3dhem el 3ounou9 ma nejemch na7rek rassi", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_16", "text": "ta3bet barcha w ma3andich energie l youm kol", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_17", "text": "نحس بدوخة كل ما نوقف بسرعة", "intent": "report_symptom", "source": "human"}
+{"id": "report_glucose_value_01", "text": "el glycémie mte3i lyoum 2.10", "intent": "report_glucose_value", "source": "human"}
+{"id": "report_glucose_value_02", "text": "taux sokkar 3andi el sbe7 kan 1.80", "intent": "report_glucose_value", "source": "human"}
+{"id": "report_glucose_value_03", "text": "جبت نتيجة السكر اليوم و كانت عالية برشا", "intent": "report_glucose_value", "source": "human"}
+{"id": "report_glucose_value_04", "text": "fait le test w le9it 3.40 khayef chwaya", "intent": "report_glucose_value", "source": "human"}
+{"id": "report_glucose_value_05", "text": "ma na3rfech nekteb el resultat mte3 el glucomètre", "intent": "report_glucose_value", "source": "human"}
+{"id": "report_glucose_value_06", "text": "جبت قراءة السكر 0.65 نحس بدوخة", "intent": "report_glucose_value", "source": "human"}
+{"id": "report_glucose_value_07", "text": "glycémie à jeun 1.95 est ce que c'est normal", "intent": "report_glucose_value", "source": "human"}
+{"id": "report_glucose_value_08", "text": "taux sokkar tal3 barcha el 3achiya kif nakoul", "intent": "report_glucose_value", "source": "human"}
+{"id": "report_glucose_value_09", "text": "جربت الجهاز و طلعلي رقم غريب برشا", "intent": "report_glucose_value", "source": "human"}
+{"id": "report_glucose_value_10", "text": "le9it el resultat mte3i 1.40 a9bal el fetour", "intent": "report_glucose_value", "source": "human"}
+{"id": "report_glucose_value_11", "text": "سكري نزل برشا هالأسبوع نحس بخوف", "intent": "report_glucose_value", "source": "human"}
+{"id": "report_glucose_value_12", "text": "j'ai mesuré deux fois j'ai deux résultats différents", "intent": "report_glucose_value", "source": "human"}
+{"id": "report_glucose_value_13", "text": "el machine 3atetni erreur ma3reftech n3awed", "intent": "report_glucose_value", "source": "human"}
+{"id": "report_glucose_value_14", "text": "تحصلت على 2.50 بعد الغدا هل هذا طبيعي", "intent": "report_glucose_value", "source": "human"}
+{"id": "report_glucose_value_15", "text": "résultat el matin bas jedan 0.55 nhes khayef", "intent": "report_glucose_value", "source": "human"}
+{"id": "ask_diet_lifestyle_01", "text": "نجم ناكل تمر في رمضان و عندي السكري", "intent": "ask_diet_lifestyle", "source": "human"}
+{"id": "ask_diet_lifestyle_02", "text": "est ce que nejem nsoum f ramadan m3a el dwa mte3i", "intent": "ask_diet_lifestyle", "source": "human"}
+{"id": "ask_diet_lifestyle_03", "text": "شنوة الأكلات لي لازم نبعد عليهم", "intent": "ask_diet_lifestyle", "source": "human"}
+{"id": "ask_diet_lifestyle_04", "text": "nejem nakoul couscous walla mamnou3 3liya", "intent": "ask_diet_lifestyle", "source": "human"}
+{"id": "ask_diet_lifestyle_05", "text": "كيفاش ننظم الأكل باش السكر ما يطلعش", "intent": "ask_diet_lifestyle", "source": "human"}
+{"id": "ask_diet_lifestyle_06", "text": "est-ce que le sport ye3awen fi el traitement mte3i", "intent": "ask_diet_lifestyle", "source": "human"}
+{"id": "ask_diet_lifestyle_07", "text": "شنوة قداش الرياضة المفروض نعمل في الجمعة", "intent": "ask_diet_lifestyle", "source": "human"}
+{"id": "ask_diet_lifestyle_08", "text": "nejem nakoul 7louyet f el 3yed wala l لا", "intent": "ask_diet_lifestyle", "source": "human"}
+{"id": "ask_diet_lifestyle_09", "text": "كيفاش نتصرف مع السكري في رمضان بالضبط", "intent": "ask_diet_lifestyle", "source": "human"}
+{"id": "ask_diet_lifestyle_10", "text": "est ce que el fakya b sokkar 3ali walla la", "intent": "ask_diet_lifestyle", "source": "human"}
+{"id": "ask_diet_lifestyle_11", "text": "شنوة نوعية الخبز الباهية للي عندهم سكري", "intent": "ask_diet_lifestyle", "source": "human"}
+{"id": "ask_diet_lifestyle_12", "text": "nejem nshrab 3sir fawek walla ykhaliني el sokkar ytla3", "intent": "ask_diet_lifestyle", "source": "human"}
+{"id": "ask_diet_lifestyle_13", "text": "هل ممنوع نشرب قهوة بسكر", "intent": "ask_diet_lifestyle", "source": "human"}
+{"id": "ask_diet_lifestyle_14", "text": "conseil ba3d el akla nemchi wala noter chwaya", "intent": "ask_diet_lifestyle", "source": "human"}
+{"id": "ask_diet_lifestyle_15", "text": "شنوة أحسن وقت لمزاولة الرياضة إذا عندي السكري", "intent": "ask_diet_lifestyle", "source": "human"}
+{"id": "emotional_support_01", "text": "ta3bet نفسيا من هذا المرض ما نعرفش نكمل", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_02", "text": "je n'en peux plus avec ce traitement tous les jours", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_03", "text": "حاسة بالضيقة برشا من وقت ما تشخصت بالسكري", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_04", "text": "nhes wa7di f hal el mochkla ma 3andi ma n7ki m3ah", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_05", "text": "خايفة نكبر و المرض يتفاقم", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_06", "text": "ras3i ta3eb men el fikra el dwa kol nhar", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_07", "text": "j'ai peur de l'avenir avec cette maladie chronique", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_08", "text": "نحس بالإحباط كل ما نشوف النتيجة مانيش راضي", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_09", "text": "mreyet nafsiya 5ater hal el 7ala sa3ba 3liya", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_10", "text": "حسيت بالوحدة كي عرفت بالتشخيص", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_11", "text": "ma3adch 3andi sabr nkamel m3a hal el rigime", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_12", "text": "أحيانا نحس روحي مغلوبة و ما نقدرش نواصل", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_13", "text": "je me sens fatigué psychologiquement de gérer ça seul", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_14", "text": "خايفة ولادي يورثو مني هذا المرض", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_15", "text": "nheb kolchay ywali 3adi ama sa3ba brcha nafsiyan", "intent": "emotional_support", "source": "human"}
+{"id": "want_to_stop_med_01", "text": "نحب نوقف الدواء خلاص تعبت منه", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_02", "text": "je veux arrêter le traitement je supporte plus les effets", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_03", "text": "نحس روحي باهي خلاص نجم نوقف الدواء", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_04", "text": "fkert bch na89af 3al metformine wa7di", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_05", "text": "هل نجم نوقف الدواء كي تتحسن نتايج السكر", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_06", "text": "je pense arrêter car je me sens mieux depuis 2 semaines", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_07", "text": "ma3adch n7eb na5od dwa kol youm sa3iba 3liya", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_08", "text": "نحب نبدل للدواء الطبيعي بدل هذا", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_09", "text": "est-ce que je peux stopper si je fais du sport regulièrement", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_10", "text": "tabou3t rigime w hbeit nwa9af el comprimé", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_11", "text": "خلاص قررت نوقف الدواء ما عادش نحسو ضروري", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_12", "text": "je narrive plus a supporter ce traitement au quotidien", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_13", "text": "نحس اني ماعادش محتاجة للدواء هذا", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_14", "text": "fkert n3awad l tabib ta9lidi 5ater ta3bet men dwa", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_15", "text": "je veux essayer sans médicament pendant un mois", "intent": "want_to_stop_med", "source": "human"}
+{"id": "greeting_smalltalk_01", "text": "سلام كيفاش الحال", "intent": "greeting_smalltalk", "source": "human"}
+{"id": "greeting_smalltalk_02", "text": "salut kifech el se7a lyoum", "intent": "greeting_smalltalk", "source": "human"}
+{"id": "greeting_smalltalk_03", "text": "أهلا نحب نتكلم مع حد اليوم", "intent": "greeting_smalltalk", "source": "human"}
+{"id": "greeting_smalltalk_04", "text": "bonjour comment ça va aujourd'hui", "intent": "greeting_smalltalk", "source": "human"}
+{"id": "greeting_smalltalk_05", "text": "صباح الخير شنوة الجديد", "intent": "greeting_smalltalk", "source": "human"}
+{"id": "greeting_smalltalk_06", "text": "hello just checking in today", "intent": "greeting_smalltalk", "source": "human"}
+{"id": "greeting_smalltalk_07", "text": "مرحبا حاب نسولك على حاجة", "intent": "greeting_smalltalk", "source": "human"}
+{"id": "greeting_smalltalk_08", "text": "salut 3lik kolchay behi", "intent": "greeting_smalltalk", "source": "human"}
+{"id": "greeting_smalltalk_09", "text": "كيفك اليوم نتيجة السكر باهية", "intent": "greeting_smalltalk", "source": "human"}
+{"id": "greeting_smalltalk_10", "text": "coucou je voulais juste dire bonjour", "intent": "greeting_smalltalk", "source": "human"}
+{"id": "greeting_smalltalk_11", "text": "أهلا وسهلا كيفاش صحتك اليوم", "intent": "greeting_smalltalk", "source": "human"}
+{"id": "greeting_smalltalk_12", "text": "salut sa va et toi comment el jaw", "intent": "greeting_smalltalk", "source": "human"}
+{"id": "red_flag_chest_pain_01", "text": "نحس بوجع قوي في صدري من شوية", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_02", "text": "j'ai une douleur intense dans la poitrine depuis 10 minutes", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_03", "text": "صدري يوجعني برشا و مانيش قادر نتنفس مليح", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_04", "text": "el wjaa fi sedri ysaken l dra3i el isser", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_05", "text": "sinto une pression forte dans la poitrine là maintenant", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_06", "text": "صدري يحرق و نحس بضيق كبير", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_07", "text": "douleur thoracique qui empire depuis tout à l'heure", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_08", "text": "wjaa 9awi fi sedri ma ye5affech b rest", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_09", "text": "نحس بثقل في صدري وعرق بارد", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_10", "text": "el wjaa ysaken l dra3i el yosra w el fek", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_breathing_01", "text": "ما نقدرش نتنفس مليح من شوية", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_02", "text": "j'arrive plus a respirer correctement depuis quelques minutes", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_03", "text": "نحس بخنقة و صدري مسكر", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_04", "text": "soufle koursi barcha mane9dersh na5od nfas kamel", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_05", "text": "difficulté à respirer qui empire depuis tout à l'heure", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_06", "text": "نتنفس بصعوبة كبيرة و حاسة بدوخة", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_07", "text": "ma ne9dersh nokhod nfes kamel 7ata w ana ga3ed", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_08", "text": "essoufflement soudain je ne sais pas pourquoi", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_09", "text": "صدري مسكر و ما نلحقش نكمل الكلام", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_10", "text": "respiration très rapide et superficielle depuis peu", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_hypoglycemia_01", "text": "نحس برعشة وعرق بارد وخوف مفاجئ", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_02", "text": "je tremble beaucoup et je sue froid tout d'un coup", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_03", "text": "رأسي يدور برشا وحاسة اني باش نطيح", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_04", "text": "glycémie chuté 0.45 je me sens très mal", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_05", "text": "نحس بتشويش في رأسي وما نفهمش وين راني", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_06", "text": "confusion soudaine et tremblements je ne comprends pas ce qui se passe", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_07", "text": "عرقان برد بزاف و قلبي يخبط بسرعة", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_08", "text": "je sens que je vais m'évanouir là maintenant", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_09", "text": "رجليا ترعشو و ما نقدرش نوقف", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_10", "text": "vision floue soudaine avec des tremblements", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_suicidal_01", "text": "ما عادش نحب نعيش هكة", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_02", "text": "je n'en peux plus je pense à en finir", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_03", "text": "ماعادش نلقى فائدة نكمل في الحياة", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_04", "text": "j'ai des pensées noires depuis quelques jours", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_05", "text": "حاسة روحي ثقل على العايلة و نحب نرتاح", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_06", "text": "je ne veux plus continuer comme ça, tout est trop lourd", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_07", "text": "ماعادش نلقى معنى لأي حاجة", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_08", "text": "j'ai pensé à me faire du mal ces derniers temps", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_09", "text": "تعبت من كل حاجة و نحب نخلص", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_10", "text": "plus rien n'a de sens pour moi en ce moment", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_overdose_01", "text": "خذيت جرعة زايدة بالغلط من الدواء", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_02", "text": "j'ai pris le double de la dose par erreur il y a peu", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_03", "text": "ما نعرفش شحال خذيت من الحبوب نحس بدوخة", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_04", "text": "je crois que j'ai pris trop de comprimés sans faire attention", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_05", "text": "خذيت الدواء مرتين بالغلط اليوم", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_06", "text": "overdose accidentelle je ne sais pas quoi faire maintenant", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_07", "text": "نحس بغثيان قوي بعد ما خذيت جرعة زايدة", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_08", "text": "j'ai avalé plusieurs comprimés d'un coup par erreur", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_09", "text": "ماخذتش بالبال و خذيت الدواء مرتين اليوم", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_10", "text": "je me sens très mal après avoir pris trop de médicament", "intent": "red_flag_overdose", "source": "human"}
+{"id": "report_symptom_18", "text": "3andi sou3al jaf men talata ayam", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_19", "text": "ما ننجمش نرقد الليل من وجاع ظهري", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_20", "text": "est ce que c'est normal navoir mal aux jambes le soir", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_21", "text": "وجعي في ركبتي يجي و يمشي موش دايم", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_22", "text": "ماعدتش نقدر نمشي برشة بسبب وجع رجلي", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_23", "text": "depuis trois jours 3andi chwaya skhana fi la soirée", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_24", "text": "حاسة بتعب خفيف بس موش حاجة خطيرة", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_25", "text": "3andi wja3 fi 3dhmi kol ma non3as", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_26", "text": "واش عادي نحس بوخزة خفيفة في صدري وقت الجهد بس", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_27", "text": "nchod dwa w ba3d chwaya nhes b7ikka fi jeldi", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_28", "text": "وجعي في بطني خفيف بس موجود من يومين", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_29", "text": "kifech na3raf kan el so3al mta3i 3lak el dwa", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_30", "text": "حاسة بخمول طول النهار من كم يوم", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_31", "text": "3andi chwaya 7bub fi jeldi men el bare7 el 3achiya", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_32", "text": "نحس ببرودة في يدي ورجلي كل الصباح", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_33", "text": "wja3i fi dhahri y5aufini nhes ken chay 5ater", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_34", "text": "نحس بوخز في صدري بس يمشي بسرعة موش طويل", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_35", "text": "depuis el bare7 3andi des légers frissons", "intent": "report_symptom", "source": "human"}
+{"id": "want_to_stop_med_16", "text": "9alouli el 3am mte3i besh na5od 3chba badal dwa", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_17", "text": "nejjem na89af kan tabibi ma yewafe9ch", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_18", "text": "ma3andich 7ajja nwasel el dwa ara nchouf chwaya", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_19", "text": "smi3t 3la 3ilaj tabi3i ya5dem a7san 3lia", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_20", "text": "nejjem na3mel pause fi dwa chwaya w nchouf", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_21", "text": "9rit fi net 3la enou el dwa machi dima dharouri", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_22", "text": "nheb na3rf ra2y tbib fi wa9af el dwa", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_23", "text": "khalti ta9oul lazem nwa9af w ndir rigime kther", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_24", "text": "famma risque kan wa9eft el dwa b tedrij", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_25", "text": "ماعادش حاب نواصل بالطريقة هاذي نحب نبدل", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_26", "text": "khti 9aletli el akla ta3mal a7san mel dwa", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_27", "text": "واش فمة بديل طبيعي بدل هذا الدواء", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_28", "text": "nheb n3awed njareb bla dwa b mouwafa9a tbib", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_29", "text": "fkert nwa9af chwaya w nchouf kif jismi ya3mal", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_30", "text": "واش خطير كان وقفت الدواء شوية شوية", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_31", "text": "nhass el dwa ma3adech fayed fiya kima 9bal", "intent": "want_to_stop_med", "source": "human"}
+{"id": "missed_dose_20", "text": "ندور نعرف شنوة نعمل نسيت دوا اليوم", "intent": "missed_dose", "source": "human"}

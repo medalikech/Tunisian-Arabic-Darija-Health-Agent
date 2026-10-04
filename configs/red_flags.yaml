@@ -1,0 +1,8 @@
+# configs/red_flags.yaml
+categories:
+  - chest_pain
+  - breathing_difficulty
+  - loss_of_consciousness
+  - severe_hypoglycemia    # shaking, sweating, confusion
+  - suicidal_ideation
+  - overdose

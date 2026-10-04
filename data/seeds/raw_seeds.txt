@@ -1,0 +1,255 @@
+missed_dose | nsit nechreb ed-dwa lyoum
+missed_dose | ما شربتش الدواء اليوم
+missed_dose | 3andi joumla nsit nakhod comprimé mte3i
+missed_dose | nsitou el brovera mte3 sokkar
+missed_dose | ما خدمتش الدواء الصباح
+missed_dose | rani nsit el matin ma chribtch dwa
+missed_dose | حبيت نقلك نسيت نشرب دوائي اليوم
+missed_dose | 5altou fi rasi w nsit ed dawa
+missed_dose | ma 3malتش prise mte3 sbe7
+missed_dose | nsit ta5od les comprimés lyoum el 3achiya
+missed_dose | راني اليوم نسيت تماما الدواء
+missed_dose | oups nsit nechrob dwa el sbeh
+missed_dose | had el joumla ma 5dmetch dwa
+missed_dose | bonjour doctor jitek lyoum mridh
+report_symptom | 3andi ka77a w wji3a f grejmi
+missed_dose | nhes b 9albi se3at ydo9 a9wa
+missed_dose | wlhi labes ama fech chwaya
+missed_dose | ma3titnich dwe
+ask_side_effect | had dawa 3taani dawra fi rassi
+ask_side_effect | نحس بغثيان من بعد الدواء
+report_symptom | نحس بوجع في راسي من الصباح
+missed_dose | nsit el war9a mte3 dwe fel dar
+missed_dose | 3titni maw3ed ta7lil w 3mltou
+ask_side_effect | el tension tal3etli chwaya
+ask_side_effect | had dawa 3taani dawra fi rassi
+ask_side_effect | نحس بغثيان من بعد الدواء
+ask_side_effect | el metformine 3taatni el kersa tji w tro7
+ask_side_effect | depuis ma bdit ndir le traitement 7assit b vertige
+ask_side_effect | nchod dwa w ye5rejli boutoun kbir
+ask_side_effect | هل هذا طبيعي نحس بدوخة بعد الدواء
+ask_side_effect | 3andi diarrhée kol ma nakhod el comprimé
+ask_side_effect | dwa e sokkar y3aml goût métallique fi famm
+ask_side_effect | chkoun 3andou nafss el mochkla m3a metformine
+ask_side_effect | nhes b wjaa fi me3di kol nhar men ba3d dwa
+ask_side_effect | est ce que c'est normal navoir pas d'appétit b3d dwa
+ask_side_effect | 3la9a bel dwa walla 5ater 7aja o5ra نحس بدوخة
+ask_side_effect | dwa e sokkar 3malli allergie fi jeldi
+ask_side_effect | نتقيأ برشا من بعد ما ناخذ الدواء
+ask_side_effect | 7assa bel khefa w taniss men ba3d el prise
+
+ask_medication_info | wa9tech lazem nakhod dwa 9bal wala b3d el akla
+ask_medication_info | قداش المدة لازم ناخذ هذا الدواء
+ask_medication_info | nimsi kifech nakhod el comprimé m3a l'eau wala l7lib
+ask_medication_info | est ce que nejem na5od metformine m3a café
+ask_medication_info | شنوة الجرعة الصحيحة متاع هذا الدواء
+ask_medication_info | dwa el sokkar yetakhod kol nhar wala marra fi jom3a
+ask_medication_info | nsit ken lazem na5od 9bal el fetour wala b3dou
+ask_medication_info | قداش الوقت بين كل جرعة وجرعة
+ask_medication_info | c'est quoi le nom générique mte3 had el dwa
+ask_medication_info | نجم نخلط هذا الدواء مع دواء ضغط الدم
+ask_medication_info | ken el comprimé standa a3malha n9sam fi jouz
+ask_medication_info | el dwa yetakhod barra el akl wala fi wsat el akla
+ask_medication_info | شنوة لون الحبة لازم تكون باهي نتأكد
+ask_medication_info | est-ce que had el dwa ya5dem m3a jeun
+ask_medication_info | نسيت شنوة الفرق بين الجرعة الصغيرة و الكبيرة
+
+ask_refill | نحتاج نجدد الوصفة متاع الدواء
+ask_refill | 5last el dwa mte3i lazemni ordonnance jdida
+ask_refill | ken lazem nmchi l tabib bech na5od ordonnance jdida
+ask_refill | est ce que nejem na5od renouvellement online
+ask_refill | باقيلي غير شريط وحد متاع الدواء
+ask_refill | dwa mte3i wsal fi akhertou lazemni recharge
+ask_refill | كيفاش نجدد الوصفة الطبية بدون ما نمشي للطبيب
+ask_refill | j'ai presque fini mon traitement il me faut une ordonnance
+ask_refill | el pharmacien 9alli lazem ordonnance jdida bech ya3tini dwa
+ask_refill | نحتاج نعرف كيفاش نطلب الدواء من جديد
+ask_refill | 5last el stock mte3 el metformine fi dar
+ask_refill | ordonnance mte3i 5al9et validité
+ask_refill | هل ممكن تبعثلي وصفة جديدة اونلاين
+ask_refill | dwa mte3i baw t5les lazemni n3awed nchri
+ask_refill | نلوج نعرف وين نلقى صيدلية فيها الدواء متاعي
+
+report_symptom | نحس بوجع في راسي من الصباح
+report_symptom | 3andi ka77a w wji3a f grejmi
+report_symptom | nhes b 9albi se3at ydo9 a9wa
+report_symptom | rassi ye5taffi w 3andi ta3eb kbir
+report_symptom | depuis el bare7 3andi wjaa fi dhahri
+report_symptom | نحس بتعب برشا و مانيش قادر نخدم
+report_symptom | 3andi fièvre men el bare7 el 3achiya
+report_symptom | rijlaya 3andhom wjaa w wram chwaya
+report_symptom | نحس بحكة في جلدي من كم يوم
+report_symptom | 7assa b 9archa fi me3di kol nhar
+report_symptom | j'ai des vertiges depuis ce matin ma navigue pas bien
+report_symptom | نحس بخدران في يدي من الصباح
+report_symptom | 3andi wjaa fi 3dhem el 3ounou9 ma nejemch na7rek rassi
+report_symptom | ta3bet barcha w ma3andich energie l youm kol
+report_symptom | نحس بدوخة كل ما نوقف بسرعة
+
+report_glucose_value | el glycémie mte3i lyoum 2.10
+report_glucose_value | taux sokkar 3andi el sbe7 kan 1.80
+report_glucose_value | جبت نتيجة السكر اليوم و كانت عالية برشا
+report_glucose_value | fait le test w le9it 3.40 khayef chwaya
+report_glucose_value | ma na3rfech nekteb el resultat mte3 el glucomètre
+report_glucose_value | جبت قراءة السكر 0.65 نحس بدوخة
+report_glucose_value | glycémie à jeun 1.95 est ce que c'est normal
+report_glucose_value | taux sokkar tal3 barcha el 3achiya kif nakoul
+report_glucose_value | جربت الجهاز و طلعلي رقم غريب برشا
+report_glucose_value | le9it el resultat mte3i 1.40 a9bal el fetour
+report_glucose_value | سكري نزل برشا هالأسبوع نحس بخوف
+report_glucose_value | j'ai mesuré deux fois j'ai deux résultats différents
+report_glucose_value | el machine 3atetni erreur ma3reftech n3awed
+report_glucose_value | تحصلت على 2.50 بعد الغدا هل هذا طبيعي
+report_glucose_value | résultat el matin bas jedan 0.55 nhes khayef
+
+ask_diet_lifestyle | نجم ناكل تمر في رمضان و عندي السكري
+ask_diet_lifestyle | est ce que nejem nsoum f ramadan m3a el dwa mte3i
+ask_diet_lifestyle | شنوة الأكلات لي لازم نبعد عليهم
+ask_diet_lifestyle | nejem nakoul couscous walla mamnou3 3liya
+ask_diet_lifestyle | كيفاش ننظم الأكل باش السكر ما يطلعش
+ask_diet_lifestyle | est-ce que le sport ye3awen fi el traitement mte3i
+ask_diet_lifestyle | شنوة قداش الرياضة المفروض نعمل في الجمعة
+ask_diet_lifestyle | nejem nakoul 7louyet f el 3yed wala l لا
+ask_diet_lifestyle | كيفاش نتصرف مع السكري في رمضان بالضبط
+ask_diet_lifestyle | est ce que el fakya b sokkar 3ali walla la
+ask_diet_lifestyle | شنوة نوعية الخبز الباهية للي عندهم سكري
+ask_diet_lifestyle | nejem nshrab 3sir fawek walla ykhaliني el sokkar ytla3
+ask_diet_lifestyle | هل ممنوع نشرب قهوة بسكر
+ask_diet_lifestyle | conseil ba3d el akla nemchi wala noter chwaya
+ask_diet_lifestyle | شنوة أحسن وقت لمزاولة الرياضة إذا عندي السكري
+
+emotional_support | ta3bet نفسيا من هذا المرض ما نعرفش نكمل
+emotional_support | je n'en peux plus avec ce traitement tous les jours
+emotional_support | حاسة بالضيقة برشا من وقت ما تشخصت بالسكري
+emotional_support | nhes wa7di f hal el mochkla ma 3andi ma n7ki m3ah
+emotional_support | خايفة نكبر و المرض يتفاقم
+emotional_support | ras3i ta3eb men el fikra el dwa kol nhar
+emotional_support | j'ai peur de l'avenir avec cette maladie chronique
+emotional_support | نحس بالإحباط كل ما نشوف النتيجة مانيش راضي
+emotional_support | mreyet nafsiya 5ater hal el 7ala sa3ba 3liya
+emotional_support | حسيت بالوحدة كي عرفت بالتشخيص
+emotional_support | ma3adch 3andi sabr nkamel m3a hal el rigime
+emotional_support | أحيانا نحس روحي مغلوبة و ما نقدرش نواصل
+emotional_support | je me sens fatigué psychologiquement de gérer ça seul
+emotional_support | خايفة ولادي يورثو مني هذا المرض
+emotional_support | nheb kolchay ywali 3adi ama sa3ba brcha nafsiyan
+
+want_to_stop_med | نحب نوقف الدواء خلاص تعبت منه
+want_to_stop_med | je veux arrêter le traitement je supporte plus les effets
+want_to_stop_med | نحس روحي باهي خلاص نجم نوقف الدواء
+want_to_stop_med | fkert bch na89af 3al metformine wa7di
+want_to_stop_med | هل نجم نوقف الدواء كي تتحسن نتايج السكر
+want_to_stop_med | je pense arrêter car je me sens mieux depuis 2 semaines
+want_to_stop_med | ma3adch n7eb na5od dwa kol youm sa3iba 3liya
+want_to_stop_med | نحب نبدل للدواء الطبيعي بدل هذا
+want_to_stop_med | est-ce que je peux stopper si je fais du sport regulièrement
+want_to_stop_med | tabou3t rigime w hbeit nwa9af el comprimé
+want_to_stop_med | خلاص قررت نوقف الدواء ما عادش نحسو ضروري
+want_to_stop_med | je narrive plus a supporter ce traitement au quotidien
+want_to_stop_med | نحس اني ماعادش محتاجة للدواء هذا
+want_to_stop_med | fkert n3awad l tabib ta9lidi 5ater ta3bet men dwa
+want_to_stop_med | je veux essayer sans médicament pendant un mois
+
+greeting_smalltalk | سلام كيفاش الحال
+greeting_smalltalk | salut kifech el se7a lyoum
+greeting_smalltalk | أهلا نحب نتكلم مع حد اليوم
+greeting_smalltalk | bonjour comment ça va aujourd'hui
+greeting_smalltalk | صباح الخير شنوة الجديد
+greeting_smalltalk | hello just checking in today
+greeting_smalltalk | مرحبا حاب نسولك على حاجة
+greeting_smalltalk | salut 3lik kolchay behi
+greeting_smalltalk | كيفك اليوم نتيجة السكر باهية
+greeting_smalltalk | coucou je voulais juste dire bonjour
+greeting_smalltalk | أهلا وسهلا كيفاش صحتك اليوم
+greeting_smalltalk | salut sa va et toi comment el jaw
+
+red_flag_chest_pain | نحس بوجع قوي في صدري من شوية
+red_flag_chest_pain | j'ai une douleur intense dans la poitrine depuis 10 minutes
+red_flag_chest_pain | صدري يوجعني برشا و مانيش قادر نتنفس مليح
+red_flag_chest_pain | el wjaa fi sedri ysaken l dra3i el isser
+red_flag_chest_pain | sinto une pression forte dans la poitrine là maintenant
+red_flag_chest_pain | صدري يحرق و نحس بضيق كبير
+red_flag_chest_pain | douleur thoracique qui empire depuis tout à l'heure
+red_flag_chest_pain | wjaa 9awi fi sedri ma ye5affech b rest
+red_flag_chest_pain | نحس بثقل في صدري وعرق بارد
+red_flag_chest_pain | el wjaa ysaken l dra3i el yosra w el fek
+
+red_flag_breathing | ما نقدرش نتنفس مليح من شوية
+red_flag_breathing | j'arrive plus a respirer correctement depuis quelques minutes
+red_flag_breathing | نحس بخنقة و صدري مسكر
+red_flag_breathing | soufle koursi barcha mane9dersh na5od nfas kamel
+red_flag_breathing | difficulté à respirer qui empire depuis tout à l'heure
+red_flag_breathing | نتنفس بصعوبة كبيرة و حاسة بدوخة
+red_flag_breathing | ma ne9dersh nokhod nfes kamel 7ata w ana ga3ed
+red_flag_breathing | essoufflement soudain je ne sais pas pourquoi
+red_flag_breathing | صدري مسكر و ما نلحقش نكمل الكلام
+red_flag_breathing | respiration très rapide et superficielle depuis peu
+
+red_flag_hypoglycemia | نحس برعشة وعرق بارد وخوف مفاجئ
+red_flag_hypoglycemia | je tremble beaucoup et je sue froid tout d'un coup
+red_flag_hypoglycemia | رأسي يدور برشا وحاسة اني باش نطيح
+red_flag_hypoglycemia | glycémie chuté 0.45 je me sens très mal
+red_flag_hypoglycemia | نحس بتشويش في رأسي وما نفهمش وين راني
+red_flag_hypoglycemia | confusion soudaine et tremblements je ne comprends pas ce qui se passe
+red_flag_hypoglycemia | عرقان برد بزاف و قلبي يخبط بسرعة
+red_flag_hypoglycemia | je sens que je vais m'évanouir là maintenant
+red_flag_hypoglycemia | رجليا ترعشو و ما نقدرش نوقف
+red_flag_hypoglycemia | vision floue soudaine avec des tremblements
+
+red_flag_suicidal | ما عادش نحب نعيش هكة
+red_flag_suicidal | je n'en peux plus je pense à en finir
+red_flag_suicidal | ماعادش نلقى فائدة نكمل في الحياة
+red_flag_suicidal | j'ai des pensées noires depuis quelques jours
+red_flag_suicidal | حاسة روحي ثقل على العايلة و نحب نرتاح
+red_flag_suicidal | je ne veux plus continuer comme ça, tout est trop lourd
+red_flag_suicidal | ماعادش نلقى معنى لأي حاجة
+red_flag_suicidal | j'ai pensé à me faire du mal ces derniers temps
+red_flag_suicidal | تعبت من كل حاجة و نحب نخلص
+red_flag_suicidal | plus rien n'a de sens pour moi en ce moment
+
+red_flag_overdose | خذيت جرعة زايدة بالغلط من الدواء
+red_flag_overdose | j'ai pris le double de la dose par erreur il y a peu
+red_flag_overdose | ما نعرفش شحال خذيت من الحبوب نحس بدوخة
+red_flag_overdose | je crois que j'ai pris trop de comprimés sans faire attention
+red_flag_overdose | خذيت الدواء مرتين بالغلط اليوم
+red_flag_overdose | overdose accidentelle je ne sais pas quoi faire maintenant
+red_flag_overdose | نحس بغثيان قوي بعد ما خذيت جرعة زايدة
+red_flag_overdose | j'ai avalé plusieurs comprimés d'un coup par erreur
+red_flag_overdose | ماخذتش بالبال و خذيت الدواء مرتين اليوم
+red_flag_overdose | je me sens très mal après avoir pris trop de médicament
+report_symptom | 3andi sou3al jaf men talata ayam
+report_symptom | ما ننجمش نرقد الليل من وجاع ظهري
+report_symptom | est ce que c'est normal navoir mal aux jambes le soir
+report_symptom | وجعي في ركبتي يجي و يمشي موش دايم
+report_symptom | ماعدتش نقدر نمشي برشة بسبب وجع رجلي
+report_symptom | depuis trois jours 3andi chwaya skhana fi la soirée
+report_symptom | حاسة بتعب خفيف بس موش حاجة خطيرة
+report_symptom | 3andi wja3 fi 3dhmi kol ma non3as
+report_symptom | واش عادي نحس بوخزة خفيفة في صدري وقت الجهد بس
+report_symptom | nchod dwa w ba3d chwaya nhes b7ikka fi jeldi
+report_symptom | وجعي في بطني خفيف بس موجود من يومين
+report_symptom | kifech na3raf kan el so3al mta3i 3lak el dwa
+report_symptom | حاسة بخمول طول النهار من كم يوم
+report_symptom | 3andi chwaya 7bub fi jeldi men el bare7 el 3achiya
+report_symptom | نحس ببرودة في يدي ورجلي كل الصباح
+report_symptom | wja3i fi dhahri y5aufini nhes ken chay 5ater
+report_symptom | نحس بوخز في صدري بس يمشي بسرعة موش طويل
+report_symptom | depuis el bare7 3andi des légers frissons
+
+want_to_stop_med | 9alouli el 3am mte3i besh na5od 3chba badal dwa
+want_to_stop_med | nejjem na89af kan tabibi ma yewafe9ch
+want_to_stop_med | ma3andich 7ajja nwasel el dwa ara nchouf chwaya
+want_to_stop_med | smi3t 3la 3ilaj tabi3i ya5dem a7san 3lia
+want_to_stop_med | nejjem na3mel pause fi dwa chwaya w nchouf
+want_to_stop_med | 9rit fi net 3la enou el dwa machi dima dharouri
+want_to_stop_med | nheb na3rf ra2y tbib fi wa9af el dwa
+want_to_stop_med | khalti ta9oul lazem nwa9af w ndir rigime kther
+want_to_stop_med | famma risque kan wa9eft el dwa b tedrij
+want_to_stop_med | ماعادش حاب نواصل بالطريقة هاذي نحب نبدل
+want_to_stop_med | khti 9aletli el akla ta3mal a7san mel dwa
+want_to_stop_med | واش فمة بديل طبيعي بدل هذا الدواء
+want_to_stop_med | nheb n3awed njareb bla dwa b mouwafa9a tbib
+want_to_stop_med | fkert nwa9af chwaya w nchouf kif jismi ya3mal
+want_to_stop_med | واش خطير كان وقفت الدواء شوية شوية
+want_to_stop_med | nhass el dwa ma3adech fayed fiya kima 9bal
+missed_dose | ندور نعرف شنوة نعمل نسيت دوا اليوم

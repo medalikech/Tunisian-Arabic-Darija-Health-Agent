@@ -1,0 +1,24 @@
+# Virtual environment
+models/
+venv/
+__pycache__/
+*.pyc
+
+# Local Ollama/HF cache artifacts (not applicable here, but safe to exclude)
+*.log
+
+# Large/regenerable artifacts — rebuildable from the scripts, don't need to be in git
+data/chroma_db/
+models/*.joblib
+
+# Personal conversation log — contains test data, not meant to be shared
+data/conversations.db
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+
+# Jupyter/notebook checkpoints if any appear later
+.ipynb_checkpoints/

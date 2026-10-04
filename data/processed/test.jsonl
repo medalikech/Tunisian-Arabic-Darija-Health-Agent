@@ -1,0 +1,399 @@
+{"id": "missed_dose_09", "text": "ma 3malتش prise mte3 sbe7", "intent": "missed_dose", "source": "human"}
+{"id": "missed_dose_09_v0", "text": "مشيت سبحة بلاش؟", "intent": "missed_dose", "seed_group": "missed_dose_09", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_09_v1", "text": "s7ebt lamma??", "intent": "missed_dose", "seed_group": "missed_dose_09", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_09_v2", "text": "مطيش ال3abe7", "intent": "missed_dose", "seed_group": "missed_dose_09", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_09_v3", "text": "ma 3mal7ech lamma?", "intent": "missed_dose", "seed_group": "missed_dose_09", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_09_v4", "text": "mti7t lamma? jibou fik", "intent": "missed_dose", "seed_group": "missed_dose_09", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_09_v5", "text": "ma t7otch sbe7", "intent": "missed_dose", "seed_group": "missed_dose_09", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_09_v6", "text": "missi el sbe7", "intent": "missed_dose", "seed_group": "missed_dose_09", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_09_v7", "text": "ma chiit lamma?", "intent": "missed_dose", "seed_group": "missed_dose_09", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_09_v8", "text": "ma chiit lamma, rou7t?", "intent": "missed_dose", "seed_group": "missed_dose_09", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_09_v9", "text": "ma 7otch lamma?", "intent": "missed_dose", "seed_group": "missed_dose_09", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_01", "text": "nsit nechreb ed-dwa lyoum", "intent": "missed_dose", "source": "human"}
+{"id": "missed_dose_01_v0", "text": "انا مافهيتش الدواء لي اليوم", "intent": "missed_dose", "seed_group": "missed_dose_01", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_01_v1", "text": "mnsh b3d dwa lyoum ?", "intent": "missed_dose", "seed_group": "missed_dose_01", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_01_v2", "text": "msh hreb ed-dawa l-yom", "intent": "missed_dose", "seed_group": "missed_dose_01", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_01_v3", "text": "khdem dwa, msh hreb lyoum", "intent": "missed_dose", "seed_group": "missed_dose_01", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_01_v4", "text": "msh b9th l-dwa lyoum", "intent": "missed_dose", "seed_group": "missed_dose_01", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_01_v5", "text": "ma fheytch dwa l-yom", "intent": "missed_dose", "seed_group": "missed_dose_01", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_01_v6", "text": "mla3t dwa l-yom", "intent": "missed_dose", "seed_group": "missed_dose_01", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_01_v7", "text": "msh hreb l-dwa, slm ?", "intent": "missed_dose", "seed_group": "missed_dose_01", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_01_v8", "text": "msh hreb dawa", "intent": "missed_dose", "seed_group": "missed_dose_01", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_01_v9", "text": "msh hreb ed-dawa l'jour", "intent": "missed_dose", "seed_group": "missed_dose_01", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_04", "text": "nsitou el brovera mte3 sokkar", "intent": "missed_dose", "source": "human"}
+{"id": "missed_dose_04_v0", "text": "ناسيت البخيرة مع السكر", "intent": "missed_dose", "seed_group": "missed_dose_04", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_04_v1", "text": "m3rebtouch el brokera fach", "intent": "missed_dose", "seed_group": "missed_dose_04", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_04_v2", "text": "حاب نعرف لي الناسو الدواء", "intent": "missed_dose", "seed_group": "missed_dose_04", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_04_v3", "text": "bghit nechro lek ya doktor bel brokera", "intent": "missed_dose", "seed_group": "missed_dose_04", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_04_v4", "text": "nsitouch el bokra mte3 el dawaw", "intent": "missed_dose", "seed_group": "missed_dose_04", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_04_v5", "text": "bghit nechro bach m3rebtouch", "intent": "missed_dose", "seed_group": "missed_dose_04", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_04_v6", "text": "el brokera nasito", "intent": "missed_dose", "seed_group": "missed_dose_04", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_04_v7", "text": "nsitouch bokra", "intent": "missed_dose", "seed_group": "missed_dose_04", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_04_v8", "text": "bghit nechro bach nsitouch el brokera", "intent": "missed_dose", "seed_group": "missed_dose_04", "source": "synthetic", "reviewed": false}
+{"id": "missed_dose_04_v9", "text": "missi el brokera mte3 el dawaw", "intent": "missed_dose", "seed_group": "missed_dose_04", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_09", "text": "3andi fièvre men el bare7 el 3achiya", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_09_v0", "text": "fi3t fih fièvre", "intent": "report_symptom", "seed_group": "report_symptom_09", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_09_v1", "text": "bare7 el 3ashya msiir", "intent": "report_symptom", "seed_group": "report_symptom_09", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_09_v2", "text": "anad fi fevri", "intent": "report_symptom", "seed_group": "report_symptom_09", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_09_v3", "text": "3ashya bghit li fahim, fi fièvre", "intent": "report_symptom", "seed_group": "report_symptom_09", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_09_v4", "text": "kemlek fih, 3endi fièvre min el bare7", "intent": "report_symptom", "seed_group": "report_symptom_09", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_09_v5", "text": "la fievre yaass", "intent": "report_symptom", "seed_group": "report_symptom_09", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_09_v6", "text": "fievre bare7 3ashya", "intent": "report_symptom", "seed_group": "report_symptom_09", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_09_v7", "text": "anada fièvre, jdid", "intent": "report_symptom", "seed_group": "report_symptom_09", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_09_v8", "text": "fi fièvre, malik", "intent": "report_symptom", "seed_group": "report_symptom_09", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_09_v9", "text": "bare7 3ashya fievre", "intent": "report_symptom", "seed_group": "report_symptom_09", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_19", "text": "ما ننجمش نرقد الليل من وجاع ظهري", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_29", "text": "kifech na3raf kan el so3al mta3i 3lak el dwa", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_15", "text": "3andi wjaa fi 3dhem el 3ounou9 ma nejemch na7rek rassi", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_15_v0", "text": "عندى وجع ف راسى ما كنمش نحكي ب هاد الشكل", "intent": "report_symptom", "seed_group": "report_symptom_15", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_15_v1", "text": "3andii w7aa fi raasi ma kenish no7kii", "intent": "report_symptom", "seed_group": "report_symptom_15", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_15_v2", "text": "عندى وجع ف راسي و مش قادري احكي", "intent": "report_symptom", "seed_group": "report_symptom_15", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_15_v3", "text": "عندى وجع بالراس، مابقاش ناجد الكلام", "intent": "report_symptom", "seed_group": "report_symptom_15", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_15_v4", "text": "3andii w7aa fi raasi, ma kenish no7kii", "intent": "report_symptom", "seed_group": "report_symptom_15", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_15_v5", "text": "عندى وجع ف الراس، مش قادر أتكلم", "intent": "report_symptom", "seed_group": "report_symptom_15", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_15_v6", "text": "3andii w7aa fi rassi, ma kenish n7kii", "intent": "report_symptom", "seed_group": "report_symptom_15", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_15_v7", "text": "عندى وجع ف الرأس، مش قادر أتكلم", "intent": "report_symptom", "seed_group": "report_symptom_15", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_15_v8", "text": "عندى وجع بالراس، ما كنمش نحكي", "intent": "report_symptom", "seed_group": "report_symptom_15", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_15_v9", "text": "3andi wjaa fi raasi, ma kenish no7kii", "intent": "report_symptom", "seed_group": "report_symptom_15", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_27", "text": "nchod dwa w ba3d chwaya nhes b7ikka fi jeldi", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_13", "text": "j'ai des vertiges depuis ce matin ma navigue pas bien", "intent": "report_symptom", "source": "human"}
+{"id": "report_symptom_13_v0", "text": "kinenechi w7id li bghiti t7t bghiti b3d", "intent": "report_symptom", "seed_group": "report_symptom_13", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_13_v1", "text": "c'est depuis hier q-teb9 el-3een li bghiti", "intent": "report_symptom", "seed_group": "report_symptom_13", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_13_v2", "text": "j'9ort bi vertiges depuis laa3ed", "intent": "report_symptom", "seed_group": "report_symptom_13", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_13_v3", "text": "kinenech li hawwe9", "intent": "report_symptom", "seed_group": "report_symptom_13", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_13_v4", "text": "msh navi7y t7awwir 7awwe9 bghiti", "intent": "report_symptom", "seed_group": "report_symptom_13", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_13_v5", "text": "vertige depuis matin, kanash navi7y t7awwir b3d", "intent": "report_symptom", "seed_group": "report_symptom_13", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_13_v6", "text": "ça m9ort li bghiti t7t bghiti b3d", "intent": "report_symptom", "seed_group": "report_symptom_13", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_13_v7", "text": "yalle9 li m9ort chi vertiges depuis laa3ed", "intent": "report_symptom", "seed_group": "report_symptom_13", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_13_v8", "text": "msh navi7y t7awwir chi 7awwe9 bghiti", "intent": "report_symptom", "seed_group": "report_symptom_13", "source": "synthetic", "reviewed": false}
+{"id": "report_symptom_13_v9", "text": "kinenech li m9ort chi vertiges matin", "intent": "report_symptom", "seed_group": "report_symptom_13", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_01", "text": "had dawa 3taani dawra fi rassi", "intent": "ask_side_effect", "source": "human"}
+{"id": "ask_side_effect_01_v0", "text": "shwaya 3ani biih dawa walla bghit as2il 3ndo doktor", "intent": "ask_side_effect", "seed_group": "ask_side_effect_01", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_01_v1", "text": "daw2a lih w bghiti as2il 3la 3qabiya", "intent": "ask_side_effect", "seed_group": "ask_side_effect_01", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_01_v2", "text": "n3am bghiti afham l3eqabiya 3la dawa", "intent": "ask_side_effect", "seed_group": "ask_side_effect_01", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_01_v3", "text": "bghiti 9olo doktor 7al daw2a 3la 3eqabiya", "intent": "ask_side_effect", "seed_group": "ask_side_effect_01", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_01_v4", "text": "dawa walla m9awal 3la 7al 3qabiya", "intent": "ask_side_effect", "seed_group": "ask_side_effect_01", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_01_v5", "text": "bghiti as2il walla doktor 3la 3qabiya", "intent": "ask_side_effect", "seed_group": "ask_side_effect_01", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_01_v6", "text": "chocolat ou daw2a, 3la 3qabiya", "intent": "ask_side_effect", "seed_group": "ask_side_effect_01", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_01_v7", "text": "bghiti as2il 3la 3qabiya daw2a", "intent": "ask_side_effect", "seed_group": "ask_side_effect_01", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_01_v8", "text": "daw2a, 3eqabiya walla ?", "intent": "ask_side_effect", "seed_group": "ask_side_effect_01", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_01_v9", "text": "daw2a 7al 3eqabiya ?", "intent": "ask_side_effect", "seed_group": "ask_side_effect_01", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_03", "text": "el tension tal3etli chwaya", "intent": "ask_side_effect", "source": "human"}
+{"id": "ask_side_effect_03_v0", "text": "eshy wa9ed chwaya bel tension bichra", "intent": "ask_side_effect", "seed_group": "ask_side_effect_03", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_03_v1", "text": "tension ma3ni chwaya, 7alim shwiya", "intent": "ask_side_effect", "seed_group": "ask_side_effect_03", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_03_v2", "text": "chwaya bichra, tension kolh 9alet", "intent": "ask_side_effect", "seed_group": "ask_side_effect_03", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_03_v3", "text": "tension 3ayni chwaya, 3ayz 3araf ma fahem", "intent": "ask_side_effect", "seed_group": "ask_side_effect_03", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_03_v4", "text": "tension ma3ni chwaya, wenshad chwaya?", "intent": "ask_side_effect", "seed_group": "ask_side_effect_03", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_03_v5", "text": "tension chwaya, khad chwaya", "intent": "ask_side_effect", "seed_group": "ask_side_effect_03", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_03_v6", "text": "chwaya 3la tension, 7alim", "intent": "ask_side_effect", "seed_group": "ask_side_effect_03", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_03_v7", "text": "tension 3ayni chwaya, kif hemst chawaya", "intent": "ask_side_effect", "seed_group": "ask_side_effect_03", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_03_v8", "text": "tension chwaya, bichra chawaya", "intent": "ask_side_effect", "seed_group": "ask_side_effect_03", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_03_v9", "text": "tension 3ayni chwaya, wenshad chawaya chwaya", "intent": "ask_side_effect", "seed_group": "ask_side_effect_03", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_07", "text": "depuis ma bdit ndir le traitement 7assit b vertige", "intent": "ask_side_effect", "source": "human"}
+{"id": "ask_side_effect_07_v1", "text": "Déjà à partir de 3mn d'prendre le m'decine, gère b sens vertige", "intent": "ask_side_effect", "seed_group": "ask_side_effect_07", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_07_v2", "text": "ça fait 2 jours kendir le remede et maintenant je sens des tadjadoum", "intent": "ask_side_effect", "seed_group": "ask_side_effect_07", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_07_v3", "text": "Wah bchitha b3dik, débou commence boudir le médicament et mé débou me sens très faible", "intent": "ask_side_effect", "seed_group": "ask_side_effect_07", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_07_v4", "text": "Bchitha b3dik ndir le traitement, mé gère b vertige", "intent": "ask_side_effect", "seed_group": "ask_side_effect_07", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_07_v5", "text": "Fina l'dawa, w b'di b3dik me kdar f'el dawa 7assit b sens vertigineux", "intent": "ask_side_effect", "seed_group": "ask_side_effect_07", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_07_v6", "text": "Déjà à partir de l'dawa, gère b sens de l'chaleur", "intent": "ask_side_effect", "seed_group": "ask_side_effect_07", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_07_v7", "text": "7assit ndir le traitement, w gère b sens vertige", "intent": "ask_side_effect", "seed_group": "ask_side_effect_07", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_07_v8", "text": "Déjà wé ndir le traitement, gère b sens de faiblesse", "intent": "ask_side_effect", "seed_group": "ask_side_effect_07", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_07_v9", "text": "Djoum b3dik ndir le traitement, w gère b vertige", "intent": "ask_side_effect", "seed_group": "ask_side_effect_07", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_12", "text": "chkoun 3andou nafss el mochkla m3a metformine", "intent": "ask_side_effect", "source": "human"}
+{"id": "ask_side_effect_12_v0", "text": "mshi echwiya metformine 3andek nafss mochkla?", "intent": "ask_side_effect", "seed_group": "ask_side_effect_12", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_12_v1", "text": "metformine, nafss mochkla li hawi?", "intent": "ask_side_effect", "seed_group": "ask_side_effect_12", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_12_v2", "text": "ta3rifi metformine, 3andek nafss?", "intent": "ask_side_effect", "seed_group": "ask_side_effect_12", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_12_v3", "text": "3andek nafss li hawi m3a metformine?", "intent": "ask_side_effect", "seed_group": "ask_side_effect_12", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_12_v4", "text": "metformine, yrh7i nafss li hawi?", "intent": "ask_side_effect", "seed_group": "ask_side_effect_12", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_12_v5", "text": "nafss mochkla metformine li hawek?", "intent": "ask_side_effect", "seed_group": "ask_side_effect_12", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_12_v6", "text": "9andek nafss li hawi m3a metformine?", "intent": "ask_side_effect", "seed_group": "ask_side_effect_12", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_12_v7", "text": "chkoun metformine hawi 3andek?", "intent": "ask_side_effect", "seed_group": "ask_side_effect_12", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_12_v8", "text": "metformine, 3andek nafss mochkla?", "intent": "ask_side_effect", "seed_group": "ask_side_effect_12", "source": "synthetic", "reviewed": false}
+{"id": "ask_side_effect_12_v9", "text": "chkoun nafss li hawi m3a metformine?", "intent": "ask_side_effect", "seed_group": "ask_side_effect_12", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_05", "text": "شنوة الجرعة الصحيحة متاع هذا الدواء", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_05_v0", "text": "كم الجرعة الصحية دي هذا الدوا؟", "intent": "ask_medication_info", "seed_group": "ask_medication_info_05", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_05_v1", "text": "يعني كم مرة نخلي الدواء هدا؟", "intent": "ask_medication_info", "seed_group": "ask_medication_info_05", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_05_v2", "text": "جرعة الدوا الحقة؟", "intent": "ask_medication_info", "seed_group": "ask_medication_info_05", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_05_v3", "text": "Quantité correcte de ce médicament?", "intent": "ask_medication_info", "seed_group": "ask_medication_info_05", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_05_v4", "text": "كم مرة بالضبط نستعمل هذا الدواء؟", "intent": "ask_medication_info", "seed_group": "ask_medication_info_05", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_05_v5", "text": "كذا الجرعة الصحيحة دي؟", "intent": "ask_medication_info", "seed_group": "ask_medication_info_05", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_05_v6", "text": "ما الدوزاج اللي هاخدوه؟", "intent": "ask_medication_info", "seed_group": "ask_medication_info_05", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_05_v7", "text": "جرعة دي الدوا صحيح؟", "intent": "ask_medication_info", "seed_group": "ask_medication_info_05", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_05_v8", "text": "combien faut-il prendre de ce médicament?", "intent": "ask_medication_info", "seed_group": "ask_medication_info_05", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_05_v9", "text": "كم مرة بالليالي والنهار؟", "intent": "ask_medication_info", "seed_group": "ask_medication_info_05", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_11", "text": "ken el comprimé standa a3malha n9sam fi jouz", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_11_v0", "text": "كمان دايرمét STANDA أخدنه نصاعة في جوف", "intent": "ask_medication_info", "seed_group": "ask_medication_info_11", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_11_v1", "text": "كمان الدايرمét STANDA أخدنه في جوف؟", "intent": "ask_medication_info", "seed_group": "ask_medication_info_11", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_11_v2", "text": "Standach comprimé 3okdha n9sam fi el jouz ?", "intent": "ask_medication_info", "seed_group": "ask_medication_info_11", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_11_v3", "text": "est-ce que je dois prendre le comprimé STANDA dans le ventre ?", "intent": "ask_medication_info", "seed_group": "ask_medication_info_11", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_11_v4", "text": "كمان الدايرم STANDA أخدنه نصاعة في الجوف", "intent": "ask_medication_info", "seed_group": "ask_medication_info_11", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_11_v5", "text": "standa tablet أخدنه في المعدة", "intent": "ask_medication_info", "seed_group": "ask_medication_info_11", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_11_v6", "text": "standa pill 3okdha fi el ghourb ?", "intent": "ask_medication_info", "seed_group": "ask_medication_info_11", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_11_v7", "text": "كمان الدايرم STANDA أخدنه نصاعة", "intent": "ask_medication_info", "seed_group": "ask_medication_info_11", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_11_v8", "text": "Standach tablet أخدنه نصاعة في الجوف", "intent": "ask_medication_info", "seed_group": "ask_medication_info_11", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_11_v9", "text": "est-ce que le comprimé STANDA prends dans le ventre", "intent": "ask_medication_info", "seed_group": "ask_medication_info_11", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_04", "text": "est ce que nejem na5od metformine m3a café", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_04_v0", "text": "mn3n bghit bzzf metformine?", "intent": "ask_medication_info", "seed_group": "ask_medication_info_04", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_04_v1", "text": "jem na5od metformine maa cafe?", "intent": "ask_medication_info", "seed_group": "ask_medication_info_04", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_04_v2", "text": "est-ce que on pe na5od metformine avc café?", "intent": "ask_medication_info", "seed_group": "ask_medication_info_04", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_04_v3", "text": "jem na5od metformine bel cafe", "intent": "ask_medication_info", "seed_group": "ask_medication_info_04", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_04_v4", "text": "mn3n metformine ma3 café m3achra9?", "intent": "ask_medication_info", "seed_group": "ask_medication_info_04", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_04_v5", "text": "jem na5od metformine m3a ca3e", "intent": "ask_medication_info", "seed_group": "ask_medication_info_04", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_04_v6", "text": "bghit bzzf metformine m3a haafe", "intent": "ask_medication_info", "seed_group": "ask_medication_info_04", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_04_v7", "text": "na5od metformine ma3 haafe?", "intent": "ask_medication_info", "seed_group": "ask_medication_info_04", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_04_v8", "text": "jem na5od metformine maa cafe bil hal?", "intent": "ask_medication_info", "seed_group": "ask_medication_info_04", "source": "synthetic", "reviewed": false}
+{"id": "ask_medication_info_04_v9", "text": "metformine m3a cafe hwa kifach?", "intent": "ask_medication_info", "seed_group": "ask_medication_info_04", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_13", "text": "هل ممكن تبعثلي وصفة جديدة اونلاين", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_13_v0", "text": "مكنك تبعثلي وصفة ديال الادويت", "intent": "ask_refill", "seed_group": "ask_refill_13", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_13_v1", "text": "وصفه جديدة اونلاين؟", "intent": "ask_refill", "seed_group": "ask_refill_13", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_13_v2", "text": "بغيت وصفة تانية اونلاين", "intent": "ask_refill", "seed_group": "ask_refill_13", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_13_v3", "text": "آسف، خدني وصفة جديدة", "intent": "ask_refill", "seed_group": "ask_refill_13", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_13_v4", "text": "مكن توصللي الوصفة عبر الانترنت؟", "intent": "ask_refill", "seed_group": "ask_refill_13", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_13_v5", "text": "روجول، اريد وصفة اضافية", "intent": "ask_refill", "seed_group": "ask_refill_13", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_13_v6", "text": "وصفه جديدة على النت", "intent": "ask_refill", "seed_group": "ask_refill_13", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_13_v7", "text": "مكن تبعثلي الوصفة الجديدة", "intent": "ask_refill", "seed_group": "ask_refill_13", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_13_v8", "text": "روجول، اريد وصفة اخرى عبر النت", "intent": "ask_refill", "seed_group": "ask_refill_13", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_13_v9", "text": "مكن احصل على وصفة جديدة اونلاين؟", "intent": "ask_refill", "seed_group": "ask_refill_13", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_06", "text": "dwa mte3i wsal fi akhertou lazemni recharge", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_06_v0", "text": "عندك معيارش فارغينش", "intent": "ask_refill", "seed_group": "ask_refill_06", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_06_v1", "text": "kifache tkhodou recharge li ma bghitsh", "intent": "ask_refill", "seed_group": "ask_refill_06", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_06_v2", "text": "hna lazem recharge li drug akher", "intent": "ask_refill", "seed_group": "ask_refill_06", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_06_v3", "text": "drug lazemni recharge", "intent": "ask_refill", "seed_group": "ask_refill_06", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_06_v4", "text": "wena bghit recharge bzzf", "intent": "ask_refill", "seed_group": "ask_refill_06", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_06_v5", "text": "recharge plz", "intent": "ask_refill", "seed_group": "ask_refill_06", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_06_v6", "text": "hawwa lazemni recharge", "intent": "ask_refill", "seed_group": "ask_refill_06", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_06_v7", "text": "kifache tkhodou akhertou recharge", "intent": "ask_refill", "seed_group": "ask_refill_06", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_06_v8", "text": "recharge chwiya", "intent": "ask_refill", "seed_group": "ask_refill_06", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_06_v9", "text": "lazemni recharge 7ra", "intent": "ask_refill", "seed_group": "ask_refill_06", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_11", "text": "5last el stock mte3 el metformine fi dar", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_11_v0", "text": "kif ech 3andekom stock mte3 metformine wach?", "intent": "ask_refill", "seed_group": "ask_refill_11", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_11_v1", "text": "7alet mte3 metformine?", "intent": "ask_refill", "seed_group": "ask_refill_11", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_11_v2", "text": "stock metformine 7al7a?", "intent": "ask_refill", "seed_group": "ask_refill_11", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_11_v3", "text": "m9louch metformine fi le stock?", "intent": "ask_refill", "seed_group": "ask_refill_11", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_11_v4", "text": "kifetek 3andek metformine?", "intent": "ask_refill", "seed_group": "ask_refill_11", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_11_v5", "text": "m3a7d 3andekom stock mte3 el metformine?", "intent": "ask_refill", "seed_group": "ask_refill_11", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_11_v6", "text": "kif n5ass metformine?", "intent": "ask_refill", "seed_group": "ask_refill_11", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_11_v7", "text": "metformine stock?", "intent": "ask_refill", "seed_group": "ask_refill_11", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_11_v8", "text": "mte3 metformine w3e9 stock?", "intent": "ask_refill", "seed_group": "ask_refill_11", "source": "synthetic", "reviewed": false}
+{"id": "ask_refill_11_v9", "text": "stock fi metformine?", "intent": "ask_refill", "seed_group": "ask_refill_11", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_08", "text": "taux sokkar tal3 barcha el 3achiya kif nakoul", "intent": "report_glucose_value", "source": "human"}
+{"id": "report_glucose_value_08_v0", "text": "ta3x sokkar tli7a l3a7iyeh kem nekoul ?", "intent": "report_glucose_value", "seed_group": "report_glucose_value_08", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_08_v1", "text": "barcha el3achya lta3x sokkar, 7ala chwiya ?", "intent": "report_glucose_value", "seed_group": "report_glucose_value_08", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_08_v2", "text": "valeur sucre fin de repas comment expliquer", "intent": "report_glucose_value", "seed_group": "report_glucose_value_08", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_08_v3", "text": "ta3x les ketra l3a7iyeh, 5allem ?", "intent": "report_glucose_value", "seed_group": "report_glucose_value_08", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_08_v4", "text": "sokkar lbarja kif nekoul b3d el3achya ?", "intent": "report_glucose_value", "seed_group": "report_glucose_value_08", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_08_v5", "text": "ta3x sokkar barja comment dire barcha el3achya", "intent": "report_glucose_value", "seed_group": "report_glucose_value_08", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_08_v6", "text": "ta3x el ketra l3achya nekoul ?", "intent": "report_glucose_value", "seed_group": "report_glucose_value_08", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_08_v7", "text": "sukkar ba3d l3achya, comment expliquer la valeur ?", "intent": "report_glucose_value", "seed_group": "report_glucose_value_08", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_08_v8", "text": "ta3x lketra l3achya nekoul b3d repas ?", "intent": "report_glucose_value", "seed_group": "report_glucose_value_08", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_08_v9", "text": "ta3x le 3achya 5allemla lta3x sokkar", "intent": "report_glucose_value", "seed_group": "report_glucose_value_08", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_11", "text": "سكري نزل برشا هالأسبوع نحس بخوف", "intent": "report_glucose_value", "source": "human"}
+{"id": "report_glucose_value_11_v0", "text": "سكر نزل برشا، خايف قوي", "intent": "report_glucose_value", "seed_group": "report_glucose_value_11", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_11_v2", "text": "سكري نازل بحري، مخشي", "intent": "report_glucose_value", "seed_group": "report_glucose_value_11", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_11_v3", "text": "glucose ba3dha, kef", "intent": "report_glucose_value", "seed_group": "report_glucose_value_11", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_11_v4", "text": "سكر نزل بحري، خايف", "intent": "report_glucose_value", "seed_group": "report_glucose_value_11", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_11_v6", "text": "سكر نازل بحري، خايف بزاف", "intent": "report_glucose_value", "seed_group": "report_glucose_value_11", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_11_v8", "text": "سكر نازل بحري، مخشي شوي", "intent": "report_glucose_value", "seed_group": "report_glucose_value_11", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_07", "text": "glycémie à jeun 1.95 est ce que c'est normal", "intent": "report_glucose_value", "source": "human"}
+{"id": "report_glucose_value_07_v0", "text": "glycémie à jeun 1.95 normale?", "intent": "report_glucose_value", "seed_group": "report_glucose_value_07", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_07_v1", "text": " glycème 1.95 ok?", "intent": "report_glucose_value", "seed_group": "report_glucose_value_07", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_07_v2", "text": "glycémie ع الست الحين 1.95 مش غريب؟", "intent": "report_glucose_value", "seed_group": "report_glucose_value_07", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_07_v3", "text": "glycémie ع الست 1.95 , ok?", "intent": "report_glucose_value", "seed_group": "report_glucose_value_07", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_07_v4", "text": "glycémie 1.95, c'est normal?", "intent": "report_glucose_value", "seed_group": "report_glucose_value_07", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_07_v5", "text": "glycème matinal 1.95 normale?", "intent": "report_glucose_value", "seed_group": "report_glucose_value_07", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_07_v7", "text": "glycémie 1.95, c'est bien?", "intent": "report_glucose_value", "seed_group": "report_glucose_value_07", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_07_v8", "text": "glycémie ع الست 1.95 normale?", "intent": "report_glucose_value", "seed_group": "report_glucose_value_07", "source": "synthetic", "reviewed": false}
+{"id": "report_glucose_value_07_v9", "text": "glycémie ع الست 1.95, normale?", "intent": "report_glucose_value", "seed_group": "report_glucose_value_07", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_08", "text": "nejem nakoul 7louyet f el 3yed wala l لا", "intent": "ask_diet_lifestyle", "source": "human"}
+{"id": "ask_diet_lifestyle_08_v0", "text": "nekem nkoal hraiet fl 3ed wala l", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_08", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_08_v1", "text": "nakem nekoul hraiet fl 3ed wala fl 3yed", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_08", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_08_v2", "text": "wa5ed me3r nkoal 3louyet f el 7ed", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_08", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_08_v3", "text": "mchtsh nkoal hraiet f l3ed", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_08", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_08_v4", "text": "nekem nkoal 7louyet fl 3ed m3tlat l", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_08", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_08_v5", "text": "ne3m nkoal hraiet fl 7ed wala l", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_08", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_08_v6", "text": "nekem nkoal hraiet fl 3ed, kifat n7awed?", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_08", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_08_v7", "text": "mchtsh nkoal 7louyet fl 3ed wala l", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_08", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_08_v8", "text": "nekem nkoal hraiet fl 3ed akbar m3 l", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_08", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_08_v9", "text": "nekem nkoal hraiet fl 3ed wala l? plz dokter reponse", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_08", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_09", "text": "كيفاش نتصرف مع السكري في رمضان بالضبط", "intent": "ask_diet_lifestyle", "source": "human"}
+{"id": "ask_diet_lifestyle_09_v0", "text": "كيفاش نHandle السكري في رمضان؟", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_09", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_09_v1", "text": "skrryyyy chi t7alou li lebss fii ramdhan", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_09", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_09_v2", "text": "كيخلي للسكري في الرم3ان كي نحس3و؟", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_09", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_09_v3", "text": "فين الديت م3t قبل الصل3ة في الرم3ان", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_09", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_09_v4", "text": "Comment on gère le diabète pendant ramadan ?", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_09", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_09_v5", "text": "skriiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii ?", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_09", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_09_v6", "text": "فين الريجيم مع السكري في رمضان؟", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_09", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_09_v7", "text": "كيفاش نتعامل مع داء السكري في رمضان", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_09", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_09_v8", "text": "فين الدايت للي بنصحوه عند ما يكون رمضان", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_09", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_09_v9", "text": "فين الكونسيلر للسكري في رمضان كله؟", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_09", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_03", "text": "شنوة الأكلات لي لازم نبعد عليهم", "intent": "ask_diet_lifestyle", "source": "human"}
+{"id": "ask_diet_lifestyle_03_v1", "text": "لي موش باش ناكلو دسم وحلوين", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_03", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_03_v2", "text": "فين الأطعمة النهارده اللي باينفعش ناكلو", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_03", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_03_v3", "text": "ما نهربش من الاطعمة الدهنية والسكري", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_03", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_03_v4", "text": "ماشي الأكلات اللي لازمن نتجنبهم", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_03", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_03_v5", "text": "فين الهمبرغر والشيبسي", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_03", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_03_v6", "text": "لي موش ناكل شوفان وسميد كل يوم", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_03", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_03_v7", "text": "أكيد الأطعمة ديل لي موش ناكلو", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_03", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_03_v8", "text": "ما نهربش من الأكلات ديل باش ما نعانيش من مخاطر صحية", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_03", "source": "synthetic", "reviewed": false}
+{"id": "ask_diet_lifestyle_03_v9", "text": "فين الفаст فود والحلويات", "intent": "ask_diet_lifestyle", "seed_group": "ask_diet_lifestyle_03", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_09", "text": "mreyet nafsiya 5ater hal el 7ala sa3ba 3liya", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_09_v0", "text": "mreya nafsiya chra ba3d el 7alat 3liya", "intent": "emotional_support", "seed_group": "emotional_support_09", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_09_v1", "text": "s7al la7al li bghit n9awel mreyat nafsiya", "intent": "emotional_support", "seed_group": "emotional_support_09", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_09_v2", "text": "mdrch ma3nii el 7alat sa3ba 3liya, chra ma fahmtsh", "intent": "emotional_support", "seed_group": "emotional_support_09", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_09_v3", "text": "mreyat nafsiya 7elwa", "intent": "emotional_support", "seed_group": "emotional_support_09", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_09_v4", "text": "chra ma t7otsh el 7ala", "intent": "emotional_support", "seed_group": "emotional_support_09", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_09_v5", "text": "s7it la7al, ma bghitsh chra bghit n9awel mreyat nafsiya", "intent": "emotional_support", "seed_group": "emotional_support_09", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_09_v6", "text": "chra ma b9elsh, 3ndi 7alat sa3ba", "intent": "emotional_support", "seed_group": "emotional_support_09", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_09_v7", "text": "mdr ma 9adit 3liya", "intent": "emotional_support", "seed_group": "emotional_support_09", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_09_v8", "text": "jebt 7alat, chra bghit n9awel mreyat nafsiya", "intent": "emotional_support", "seed_group": "emotional_support_09", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_09_v9", "text": "s7it la7al, ma 9adit 3liya", "intent": "emotional_support", "seed_group": "emotional_support_09", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_08", "text": "نحس بالإحباط كل ما نشوف النتيجة مانيش راضي", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_08_v0", "text": "عادي حابب ن Platt ch6iyr li bghiti ch6iyr bghiti ?", "intent": "emotional_support", "seed_group": "emotional_support_08", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_08_v1", "text": "واش اكيد حابب اقهر", "intent": "emotional_support", "seed_group": "emotional_support_08", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_08_v2", "text": "حاسس بالكحول كلما انظر للنتيجة", "intent": "emotional_support", "seed_group": "emotional_support_08", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_08_v3", "text": "وووو خاين احلى الاشياء", "intent": "emotional_support", "seed_group": "emotional_support_08", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_08_v4", "text": "عبيط مش عاجبني الحالة ديال النتيجة", "intent": "emotional_support", "seed_group": "emotional_support_08", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_08_v5", "text": "يا بلاش نقولو ليك انو الاشيا اللي كاين ليك موchose", "intent": "emotional_support", "seed_group": "emotional_support_08", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_08_v6", "text": "نحس بالحزن كلما نشوفو النتيجة لي فيها", "intent": "emotional_support", "seed_group": "emotional_support_08", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_08_v7", "text": "كيداشر بلي اني خاين اشياء لي كاين ليها", "intent": "emotional_support", "seed_group": "emotional_support_08", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_08_v8", "text": "عادي حابب ن Platt ch6iyr li bghiti bghiti ch6iyr", "intent": "emotional_support", "seed_group": "emotional_support_08", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_08_v9", "text": "مش عاجبنا الاشياء ديالو ديالو", "intent": "emotional_support", "seed_group": "emotional_support_08", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_10", "text": "حسيت بالوحدة كي عرفت بالتشخيص", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_10_v0", "text": "حاس9 بالي الاكتئاب شوية كاين لي يفهمني", "intent": "emotional_support", "seed_group": "emotional_support_10", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_10_v1", "text": "اية الوضع كي تقولولي عن المرض؟ فهمتلي", "intent": "emotional_support", "seed_group": "emotional_support_10", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_10_v2", "text": "واخدي شعور غريب واخدي حزين", "intent": "emotional_support", "seed_group": "emotional_support_10", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_10_v3", "text": "3وي يعطي راسي عرفت حالتي صحية", "intent": "emotional_support", "seed_group": "emotional_support_10", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_10_v4", "text": "7ويني حاس9 بالوحدة كي يديني التشخيص", "intent": "emotional_support", "seed_group": "emotional_support_10", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_10_v5", "text": "كيدا العلاج طالع شعور غريب", "intent": "emotional_support", "seed_group": "emotional_support_10", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_10_v6", "text": "كي تقولولي كي حاس9 بالكآبة", "intent": "emotional_support", "seed_group": "emotional_support_10", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_10_v7", "text": "3وي حالي حزين جدا كنعرفت بالمرض", "intent": "emotional_support", "seed_group": "emotional_support_10", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_10_v8", "text": "كيدا التشخيص واخدي خوف ووحدة", "intent": "emotional_support", "seed_group": "emotional_support_10", "source": "synthetic", "reviewed": false}
+{"id": "emotional_support_10_v9", "text": "كي تقولولي بالكويت كيدا راسي", "intent": "emotional_support", "seed_group": "emotional_support_10", "source": "synthetic", "reviewed": false}
+{"id": "want_to_stop_med_09", "text": "est-ce que je peux stopper si je fais du sport regulièrement", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_28", "text": "nheb n3awed njareb bla dwa b mouwafa9a tbib", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_24", "text": "famma risque kan wa9eft el dwa b tedrij", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_01", "text": "نحب نوقف الدواء خلاص تعبت منه", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_01_v1", "text": "ووووووووو عايلقى خلص داير نهنى", "intent": "want_to_stop_med", "seed_group": "want_to_stop_med_01", "source": "synthetic", "reviewed": false}
+{"id": "want_to_stop_med_01_v2", "text": "يجبو الدوا كافي بغيت نسافر فعلا", "intent": "want_to_stop_med", "seed_group": "want_to_stop_med_01", "source": "synthetic", "reviewed": false}
+{"id": "want_to_stop_med_01_v3", "text": "كفي كفي من الدوا بغيت نستريح", "intent": "want_to_stop_med", "seed_group": "want_to_stop_med_01", "source": "synthetic", "reviewed": false}
+{"id": "want_to_stop_med_01_v4", "text": "وووووو الدواء هاين لي كافي", "intent": "want_to_stop_med", "seed_group": "want_to_stop_med_01", "source": "synthetic", "reviewed": false}
+{"id": "want_to_stop_med_01_v5", "text": "عفاك يا طبيب أنا خلصت من الدوا ووووو", "intent": "want_to_stop_med", "seed_group": "want_to_stop_med_01", "source": "synthetic", "reviewed": false}
+{"id": "want_to_stop_med_01_v6", "text": "دوزي الدوا نهنى كفيني", "intent": "want_to_stop_med", "seed_group": "want_to_stop_med_01", "source": "synthetic", "reviewed": false}
+{"id": "want_to_stop_med_01_v7", "text": "انا غايلقى هانى", "intent": "want_to_stop_med", "seed_group": "want_to_stop_med_01", "source": "synthetic", "reviewed": false}
+{"id": "want_to_stop_med_01_v8", "text": "ديما بغيت نوقف الدوا ووووو", "intent": "want_to_stop_med", "seed_group": "want_to_stop_med_01", "source": "synthetic", "reviewed": false}
+{"id": "want_to_stop_med_01_v9", "text": "عفاك الطبيب الكفي الدوا بغيت نهدى", "intent": "want_to_stop_med", "seed_group": "want_to_stop_med_01", "source": "synthetic", "reviewed": false}
+{"id": "want_to_stop_med_15", "text": "je veux essayer sans médicament pendant un mois", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_06", "text": "je pense arrêter car je me sens mieux depuis 2 semaines", "intent": "want_to_stop_med", "source": "human"}
+{"id": "greeting_smalltalk_02", "text": "salut kifech el se7a lyoum", "intent": "greeting_smalltalk", "source": "human"}
+{"id": "greeting_smalltalk_02_v0", "text": "chl3t kif n9t3n el se7a ?", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_02", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_02_v1", "text": "Kif 9il ?", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_02", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_02_v2", "text": "sal3m h7oul el se7a ?", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_02", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_02_v3", "text": "sal3m 3nnek ? ", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_02", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_02_v4", "text": "slm kifech, w shn2 li ?", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_02", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_02_v5", "text": "s3lt kifech el se7a ?", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_02", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_02_v6", "text": "kif 9alet el se7a lyoum ?", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_02", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_02_v7", "text": "salam hbal ?", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_02", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_02_v8", "text": "s3l7em h7oul ?", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_02", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_02_v9", "text": "kif hbal el se7a ?", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_02", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_10", "text": "coucou je voulais juste dire bonjour", "intent": "greeting_smalltalk", "source": "human"}
+{"id": "greeting_smalltalk_10_v0", "text": "marhaba", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_10", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_10_v1", "text": "slm3a", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_10", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_10_v2", "text": "bns 7ello", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_10", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_10_v3", "text": "3ayyir marhaba", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_10", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_10_v4", "text": "slm7", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_10", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_10_v5", "text": "bonjour 9an", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_10", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_10_v6", "text": "bns 7iwa", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_10", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_10_v7", "text": "salam", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_10", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_10_v8", "text": "marhaba ch7alik", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_10", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_10_v9", "text": "bns 7iwar", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_10", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_04", "text": "bonjour comment ça va aujourd'hui", "intent": "greeting_smalltalk", "source": "human"}
+{"id": "greeting_smalltalk_04_v0", "text": "مرحبا كيف حالك اليوم", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_04", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_04_v1", "text": "hlw slm7 9lay", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_04", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_04_v2", "text": "sal3am hlk chawi ?", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_04", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_04_v3", "text": "3lwan 3yachir ?", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_04", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_04_v4", "text": "salam hlk, kayn h9al?", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_04", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_04_v5", "text": "chlou9 bss, lk hlk?", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_04", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_04_v6", "text": "comment ça ala? wa5ed khra", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_04", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_04_v7", "text": "salam, kif hlk?", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_04", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_04_v8", "text": "salam hlk, wa3tallah", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_04", "source": "synthetic", "reviewed": false}
+{"id": "greeting_smalltalk_04_v9", "text": "kifak 7al, chawi?", "intent": "greeting_smalltalk", "seed_group": "greeting_smalltalk_04", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_chest_pain_03", "text": "صدري يوجعني برشا و مانيش قادر نتنفس مليح", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_03_v0", "text": "صدري بوجعني كثير و مش عاجبني كيف نتنفس", "intent": "red_flag_chest_pain", "seed_group": "red_flag_chest_pain_03", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_chest_pain_03_v1", "text": "chest mouled 3andni w bghit nifrass", "intent": "red_flag_chest_pain", "seed_group": "red_flag_chest_pain_03", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_chest_pain_03_v2", "text": "صدري موجعني برشا مش عاجبني كيف ينفسي", "intent": "red_flag_chest_pain", "seed_group": "red_flag_chest_pain_03", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_chest_pain_03_v3", "text": "صدري يوجعني مزيان، مش قادري نتنفس مليح", "intent": "red_flag_chest_pain", "seed_group": "red_flag_chest_pain_03", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_chest_pain_03_v4", "text": "صدري بوجعني جد شديد، مينقدرش نتنفس مليح", "intent": "red_flag_chest_pain", "seed_group": "red_flag_chest_pain_03", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_chest_pain_03_v5", "text": "صدري بوجعني 9fad و مش قادرين نتنفس مليح", "intent": "red_flag_chest_pain", "seed_group": "red_flag_chest_pain_03", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_chest_pain_03_v6", "text": "صدري يوجعني كثير مش عاجبني كيف ينفسي", "intent": "red_flag_chest_pain", "seed_group": "red_flag_chest_pain_03", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_chest_pain_03_v7", "text": "صدري يوجعني 9fad مش قادر نتنفس مليح", "intent": "red_flag_chest_pain", "seed_group": "red_flag_chest_pain_03", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_chest_pain_03_v8", "text": "صدري يوجعني 3and و مش قادر نتنفس مليح", "intent": "red_flag_chest_pain", "seed_group": "red_flag_chest_pain_03", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_chest_pain_03_v9", "text": "صدري بوجعني 3and w bghit nifrass", "intent": "red_flag_chest_pain", "seed_group": "red_flag_chest_pain_03", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_chest_pain_09", "text": "نحس بثقل في صدري وعرق بارد", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_09_v0", "text": "khdma 3ni ba3it fesdrri w 9ra3da kalb", "intent": "red_flag_chest_pain", "seed_group": "red_flag_chest_pain_09", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_chest_pain_09_v1", "text": "صقلي راسي بصدري وعرق بارد", "intent": "red_flag_chest_pain", "seed_group": "red_flag_chest_pain_09", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_chest_pain_09_v2", "text": "pain au torax, j9awiz", "intent": "red_flag_chest_pain", "seed_group": "red_flag_chest_pain_09", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_chest_pain_09_v3", "text": "b9al fesdrri, wahdini", "intent": "red_flag_chest_pain", "seed_group": "red_flag_chest_pain_09", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_chest_pain_09_v4", "text": "khdma fesdrri, jdid b9al", "intent": "red_flag_chest_pain", "seed_group": "red_flag_chest_pain_09", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_chest_pain_09_v5", "text": "sakary 3la fesdrri, 9arq fard", "intent": "red_flag_chest_pain", "seed_group": "red_flag_chest_pain_09", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_chest_pain_09_v6", "text": "khdma dawal fesdrri", "intent": "red_flag_chest_pain", "seed_group": "red_flag_chest_pain_09", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_chest_pain_09_v7", "text": "c'est maux de poitrine, j9awiz", "intent": "red_flag_chest_pain", "seed_group": "red_flag_chest_pain_09", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_chest_pain_09_v8", "text": "b9al, khdma fesdrri", "intent": "red_flag_chest_pain", "seed_group": "red_flag_chest_pain_09", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_chest_pain_09_v9", "text": "khdma fesdrri, j9awiz", "intent": "red_flag_chest_pain", "seed_group": "red_flag_chest_pain_09", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_breathing_07", "text": "ma ne9dersh nokhod nfes kamel 7ata w ana ga3ed", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_07_v0", "text": "mash ne9dersh nokhd7 nfes kamel", "intent": "red_flag_breathing", "seed_group": "red_flag_breathing_07", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_breathing_07_v1", "text": "wa7t9itish 3andekh inhale normal?", "intent": "red_flag_breathing", "seed_group": "red_flag_breathing_07", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_breathing_07_v2", "text": "ma qilti cha9er kemel li linafe9?", "intent": "red_flag_breathing", "seed_group": "red_flag_breathing_07", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_breathing_07_v3", "text": "fekrni b9i9 kifekh li linafe9", "intent": "red_flag_breathing", "seed_group": "red_flag_breathing_07", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_breathing_07_v4", "text": "ma 5aditsh kemel li linafe9", "intent": "red_flag_breathing", "seed_group": "red_flag_breathing_07", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_breathing_07_v5", "text": "y3ni linafe9i ma tiktibsh", "intent": "red_flag_breathing", "seed_group": "red_flag_breathing_07", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_breathing_07_v6", "text": "ma b9i9 linafe9 kemel", "intent": "red_flag_breathing", "seed_group": "red_flag_breathing_07", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_breathing_07_v7", "text": "inhalech 3andek malhem kamel", "intent": "red_flag_breathing", "seed_group": "red_flag_breathing_07", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_breathing_07_v8", "text": "yallah 7awletish linafe9 kifekh", "intent": "red_flag_breathing", "seed_group": "red_flag_breathing_07", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_breathing_07_v9", "text": "ma 5aditsh kemel li linafe9 w ana ga3ed", "intent": "red_flag_breathing", "seed_group": "red_flag_breathing_07", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_breathing_05", "text": "difficulté à respirer qui empire depuis tout à l'heure", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_05_v0", "text": "kdar ba9a r7i t9awel 3la d9r3a", "intent": "red_flag_breathing", "seed_group": "red_flag_breathing_05", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_breathing_05_v1", "text": "bghith n7awol 7alit el hra3a", "intent": "red_flag_breathing", "seed_group": "red_flag_breathing_05", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_breathing_05_v2", "text": "kdar 9awol fiih d9r3a", "intent": "red_flag_breathing", "seed_group": "red_flag_breathing_05", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_breathing_05_v3", "text": "ma 9awolch chwiya w la9la", "intent": "red_flag_breathing", "seed_group": "red_flag_breathing_05", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_breathing_05_v4", "text": "7elit r7i t9awel t2awel", "intent": "red_flag_breathing", "seed_group": "red_flag_breathing_05", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_breathing_05_v5", "text": "kdar 9awolch b r7a", "intent": "red_flag_breathing", "seed_group": "red_flag_breathing_05", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_breathing_05_v6", "text": "n7awol t2awel fiih", "intent": "red_flag_breathing", "seed_group": "red_flag_breathing_05", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_breathing_05_v7", "text": "r7i 9awel fiih d9r3a", "intent": "red_flag_breathing", "seed_group": "red_flag_breathing_05", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_breathing_05_v8", "text": "t9awol 3la d9r3a", "intent": "red_flag_breathing", "seed_group": "red_flag_breathing_05", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_breathing_05_v9", "text": "kdar 9awol fiih hra3a", "intent": "red_flag_breathing", "seed_group": "red_flag_breathing_05", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_hypoglycemia_06", "text": "confusion soudaine et tremblements je ne comprends pas ce qui se passe", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_02", "text": "je tremble beaucoup et je sue froid tout d'un coup", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_suicidal_04", "text": "j'ai des pensées noires depuis quelques jours", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_01", "text": "ما عادش نحب نعيش هكة", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_01_v0", "text": "ma 7desh n7ob n3y3ech hkat hna", "intent": "red_flag_suicidal", "seed_group": "red_flag_suicidal_01", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_suicidal_01_v1", "text": "3ndi ma3y3a rja3eb b3d hka 7al7a", "intent": "red_flag_suicidal", "seed_group": "red_flag_suicidal_01", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_suicidal_01_v2", "text": "ma haa3tsh n9i3 hka 7al7", "intent": "red_flag_suicidal", "seed_group": "red_flag_suicidal_01", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_suicidal_01_v3", "text": "3ndi ma3y3a 3laa7 9ed", "intent": "red_flag_suicidal", "seed_group": "red_flag_suicidal_01", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_suicidal_01_v4", "text": "ma 9edsh nqra3 hka hna", "intent": "red_flag_suicidal", "seed_group": "red_flag_suicidal_01", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_suicidal_01_v5", "text": "9ilich ya doktor, ma 7desh n9i3 hka hna", "intent": "red_flag_suicidal", "seed_group": "red_flag_suicidal_01", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_suicidal_01_v6", "text": "chabi ma 7desh, wach ma3y3a", "intent": "red_flag_suicidal", "seed_group": "red_flag_suicidal_01", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_suicidal_01_v7", "text": "ma 9edsh n9i3 hka hna, chabi 3laa7", "intent": "red_flag_suicidal", "seed_group": "red_flag_suicidal_01", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_suicidal_01_v8", "text": "n9i3 hka hna 7al7a, ma 7desh", "intent": "red_flag_suicidal", "seed_group": "red_flag_suicidal_01", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_suicidal_01_v9", "text": "ma 7desh n9i3 hka hna, chabi ma 9edsh", "intent": "red_flag_suicidal", "seed_group": "red_flag_suicidal_01", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_overdose_09", "text": "ماخذتش بالبال و خذيت الدواء مرتين اليوم", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_09_v0", "text": "اكيد نسيت وطيت الجرعة تاني", "intent": "red_flag_overdose", "seed_group": "red_flag_overdose_09", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_overdose_09_v1", "text": "3ادت العلاج مرتين 7اليوم، خا9ريني كيفاش", "intent": "red_flag_overdose", "seed_group": "red_flag_overdose_09", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_overdose_09_v2", "text": "اليوم فاتتني جرعة الدواء وطيت تاني، ممكن خطر؟", "intent": "red_flag_overdose", "seed_group": "red_flag_overdose_09", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_overdose_09_v3", "text": "جرعة زائدة؟ ما ختيتوش الدواء مرة ثانية اليوم؟", "intent": "red_flag_overdose", "seed_group": "red_flag_overdose_09", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_overdose_09_v4", "text": "اليوم 2د2ت الدواء تين 9لي 3مة؟", "intent": "red_flag_overdose", "seed_group": "red_flag_overdose_09", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_overdose_09_v5", "text": "ديما نسيت الدواء، اليوم 7الجرعة مرتين، واش ممكن خطر؟", "intent": "red_flag_overdose", "seed_group": "red_flag_overdose_09", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_overdose_09_v6", "text": "من2ر الجرعة تين مرات اليوم، واش كاين خطر؟", "intent": "red_flag_overdose", "seed_group": "red_flag_overdose_09", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_overdose_09_v7", "text": "اليوم ختيت الدواء مرتين 7 stead 9ince i was 5orry", "intent": "red_flag_overdose", "seed_group": "red_flag_overdose_09", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_overdose_09_v8", "text": "نصبتي الدواء تين مرات اليوم، واش كاين خطر؟", "intent": "red_flag_overdose", "seed_group": "red_flag_overdose_09", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_overdose_09_v9", "text": "نصبت الدواء مرتين اليوم، ماشي؟", "intent": "red_flag_overdose", "seed_group": "red_flag_overdose_09", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_overdose_04", "text": "je crois que j'ai pris trop de comprimés sans faire attention", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_04_v0", "text": "9f9ken 9olo 9ot b3d l-kh9asr wa l-kh9asr", "intent": "red_flag_overdose", "seed_group": "red_flag_overdose_04", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_overdose_04_v1", "text": "j'ai pris bezzaf b3d l-3aw9a wa n3ass", "intent": "red_flag_overdose", "seed_group": "red_flag_overdose_04", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_overdose_04_v2", "text": "9olo 9it b3d l-ch9a9a wa l-ch9a9a", "intent": "red_flag_overdose", "seed_group": "red_flag_overdose_04", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_overdose_04_v3", "text": "3andekh d9al 7aja b3d l-kh9a wa n3ass?", "intent": "red_flag_overdose", "seed_group": "red_flag_overdose_04", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_overdose_04_v4", "text": "b3d l-ch9a9a 9ot 7alet l-lb7", "intent": "red_flag_overdose", "seed_group": "red_flag_overdose_04", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_overdose_04_v5", "text": "9olo 9it b3d l-kh9a wa l-kh9a, 3andekh d9al 7aja?", "intent": "red_flag_overdose", "seed_group": "red_flag_overdose_04", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_overdose_04_v6", "text": "je 9it b3d l-ch9a9a, 7alet l-3ab9a", "intent": "red_flag_overdose", "seed_group": "red_flag_overdose_04", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_overdose_04_v7", "text": "9olo 9it b3d l-kh9a wa l-kh9a, j'ai peur", "intent": "red_flag_overdose", "seed_group": "red_flag_overdose_04", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_overdose_04_v8", "text": "9f9ken 9olo 9ot b3d l-ch9a9a, asdek 7aja?", "intent": "red_flag_overdose", "seed_group": "red_flag_overdose_04", "source": "synthetic", "reviewed": false}
+{"id": "red_flag_overdose_04_v9", "text": "b3d l-kh9a, 9it bezzaf", "intent": "red_flag_overdose", "seed_group": "red_flag_overdose_04", "source": "synthetic", "reviewed": false}

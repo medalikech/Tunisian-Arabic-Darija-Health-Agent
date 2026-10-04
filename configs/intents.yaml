@@ -1,0 +1,13 @@
+# configs/intents.yaml
+intents:
+  - missed_dose
+  - ask_side_effect
+  - ask_medication_info   # timing, with food, etc.
+  - ask_refill
+  - report_symptom
+  - report_glucose_value
+  - ask_diet_lifestyle    # including Ramadan fasting
+  - emotional_support
+  - want_to_stop_med      # special: always redirect to doctor
+  - greeting_smalltalk
+  - other
