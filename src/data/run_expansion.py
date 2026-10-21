@@ -9,16 +9,16 @@ def run(seeds_path: Path, out_path: Path, n_per_seed: int = 10):
     out_path.parent.mkdir(parents=True, exist_ok=True)
 
     with open(seeds_path, encoding="utf-8") as f:
-        seeds = [json.loads(line) for line in f]
+        seeds = [json.loads(line) for line in f if line.strip()]
 
     # Resume support: skip seeds already processed in a previous run
     done_ids = set()
     if out_path.exists():
         with open(out_path, encoding="utf-8") as f:
             for line in f:
-                row = json.loads(line)
-                done_ids.add(row["seed_group"])
-
+                if line.strip():
+                    row = json.loads(line)
+                    done_ids.add(row["seed_group"])
     mode = "a" if out_path.exists() else "w"
     with open(out_path, mode, encoding="utf-8") as out:
         for i, seed in enumerate(seeds):

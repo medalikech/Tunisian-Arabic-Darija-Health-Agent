@@ -1,11 +1,14 @@
+
 TITRE: Prise de la metformine
-La metformine se prend généralement pendant ou juste après les repas, 
-pour réduire les troubles digestifs. Elle est habituellement prescrite 
-une à trois fois par jour selon la dose. Ne jamais doubler la dose en 
-cas d'oubli ; prendre la dose suivante normalement à l'heure prévue.
+La metformine se prend generalement pendant ou juste apres les repas,
+pour reduire les troubles digestifs. Elle est habituellement prescrite
+une a trois fois par jour selon la dose. Ne jamais doubler la dose en
+cas d'oubli ; prendre la dose suivante normalement a l'heure prevue.
+DARIJA: وقتاش تاخذ الدواء؟ الجواب: لازم تاخذ الدواء مع الأكلة أو بعدها مباشرة باش تقل المشاكل في المعدة. عادة ياخذوه مرة ولا مرتين ولا ثلاثة في النهار حسب الوصفة. كان نسيت جرعة، ما تضاعفهاش، خذ التالية في وقتها العادي.
 
 TITRE: Effets secondaires courants
-Les effets secondaires les plus fréquents incluent des troubles digestifs 
-(nausées, diarrhée, ballonnements), surtout en début de traitement. 
-Ces effets diminuent souvent avec le temps. Un goût métallique dans la 
-bouche a aussi été rapporté par certains patients.
+Les effets secondaires les plus frequents incluent des troubles digestifs
+(nausees, diarrhee, ballonnements), surtout en debut de traitement.
+Ces effets diminuent souvent avec le temps. Un gout metallique dans la
+bouche a aussi ete rapporte par certains patients.
+DARIJA: الأعراض الجانبية الأكثر شيوعًا هي مشاكل في المعدة زي الغثيان والإسهال والانتفاخ، خاصة في بداية العلاج. هذي الأعراض عادة تقل مع الوقت. بعض الناس يحسوا بطعم معدني في فمهم.

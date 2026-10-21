@@ -1,0 +1,26 @@
+[
+  {
+    "stage": "A: Seeds only",
+    "train_n": 268,
+    "macro_f1": 0.289,
+    "accuracy": 0.335
+  },
+  {
+    "stage": "B: + Raw LLM expansion",
+    "train_n": 2867,
+    "macro_f1": 0.584,
+    "accuracy": 0.59
+  },
+  {
+    "stage": "C: + Reviewed expansion",
+    "train_n": 2867,
+    "macro_f1": 0.584,
+    "accuracy": 0.59
+  },
+  {
+    "stage": "D: + Drift-cleaned (final)",
+    "train_n": 2812,
+    "macro_f1": 0.587,
+    "accuracy": 0.592
+  }
+]

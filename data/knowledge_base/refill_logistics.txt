@@ -1,12 +1,14 @@
 TITRE: Renouvellement d'ordonnance
-Une ordonnance pour un traitement chronique comme la metformine est 
-généralement valable plusieurs mois selon la prescription du médecin. 
-Il est recommandé de prendre rendez-vous avec son médecin avant la fin 
-du traitement en cours pour obtenir une nouvelle ordonnance, plutôt que 
-d'attendre la dernière boîte.
+Une ordonnance pour un traitement chronique comme la metformine est
+generalement valable plusieurs mois selon la prescription du medecin.
+Il est recommande de prendre rendez-vous avec son medecin avant la fin
+du traitement en cours pour obtenir une nouvelle ordonnance, plutot que
+d'attendre la derniere boite.
+DARIJA: الوصفة الطبية للعلاج المزمن زي المتفورمين عادة تكون صالحة على شهور حسب ما كتب الطبيب. أحسنلك تاخذ موعد عند طبيبك قبل ما تكمل العلاج، وما تستنى آخر علبة.
 
 TITRE: Que faire en cas de rupture de stock
-Si la pharmacie habituelle n'a pas le médicament en stock, il est 
-possible de vérifier dans d'autres pharmacies ou de demander au 
-pharmacien s'il existe un équivalent générique disponible, avec 
-l'accord du médecin traitant si besoin.
+Si la pharmacie habituelle n'a pas le medicament en stock, il est
+possible de verifier dans d'autres pharmacies ou de demander au
+pharmacien s'il existe un equivalent generique disponible, avec
+l'accord du medecin traitant si besoin.
+DARIJA: كان الصيدلية ما عندهاش الدواء، نجم تدور على صيدلية أخرى أو تسأل الصيدلاني كان فمة دواء جنيس ينجم يعوضه، بالاتفاق مع الطبيب كان لزم.

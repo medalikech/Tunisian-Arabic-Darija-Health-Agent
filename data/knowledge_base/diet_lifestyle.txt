@@ -1,25 +1,28 @@
+TITRE: Alimentation generale pour diabetiques
+Il est recommande de privilegier les aliments a faible index glycemique :
+legumes, legumineuses, cereales completes. Limiter le sucre raffine, les
+patisseries et les boissons sucrees. Repartir les repas de facon reguliere
+dans la journee aide a stabiliser la glycemie.
+DARIJA: أحسنلك تاكل أكل فيها سكر قليل زي الخضرة والبقوليات والحبوب الكاملة. باعد على السكر المكرر والحلويات والمشروبات السكرية. قسم أكلاتك على مدار النهار باش تحافظ على مستوى السكر ثابت.
 
-TITRE: Alimentation générale pour diabétiques
-Il est recommandé de privilégier les aliments à faible index glycémique : 
-légumes, légumineuses, céréales complètes. Limiter le sucre raffiné, les 
-pâtisseries et les boissons sucrées. Répartir les repas de façon régulière 
-dans la journée aide à stabiliser la glycémie.
+TITRE: Jeune du Ramadan et diabete
+Le jeune du Ramadan necessite d'adapter les horaires de prise de la
+metformine avec l'avis du medecin, generalement une prise au iftar et
+une au suhoor. Il est important de surveiller la glycemie plus souvent
+pendant le jeune, en particulier en fin d'apres-midi. En cas de signes
+d'hypoglycemie (tremblements, sueurs, confusion), il faut rompre le
+jeune immediatement.
+DARIJA: صوم رمضان مع السكري يحتاج تنظيم الدواء مع الطبيب، غالبا جرعة في الفطور وجرعة في السحور. راقب السكر أكثر وقت الصوم، خاصة في آخر العشية. كان حسيت برعشة أو عرق بارد أو دوخة، فطر على الفور.
 
-TITRE: Jeûne du Ramadan et diabète
-Le jeûne du Ramadan nécessite d'adapter les horaires de prise de la 
-metformine avec l'avis du médecin, généralement une prise au iftar et 
-une au suhoor. Il est important de surveiller la glycémie plus souvent 
-pendant le jeûne, en particulier en fin d'après-midi. En cas de signes 
-d'hypoglycémie (tremblements, sueurs, confusion), il faut rompre le 
-jeûne immédiatement.
+TITRE: Repas de fete (Aid et occasions speciales)
+Lors des repas de fete, il est conseille de manger en quantites
+raisonnables, de privilegier les viandes grillees plutot que frites,
+et de limiter les patisseries traditionnelles riches en sucre. Ne pas
+sauter la prise du medicament meme les jours de fete.
+DARIJA: في العيد، كول بالقد اللازم واختار اللحم المشوي بدل المقلي. باعد على الحلويات التقليدية اللي فيها سكر برشا. وما تنساش تاخذ الدواء حتى في أيام العيد.
 
-TITRE: Repas de fête (Aïd et occasions spéciales)
-Lors des repas de fête, il est conseillé de manger en quantités 
-raisonnables, de privilégier les viandes grillées plutôt que frites, 
-et de limiter les pâtisseries traditionnelles riches en sucre. Ne pas 
-sauter la prise du médicament même les jours de fête.
-
-TITRE: Activité physique
-Une activité physique régulière (marche, 30 minutes par jour si possible) 
-aide à mieux contrôler la glycémie. Il est conseillé de vérifier sa 
-glycémie avant un effort important si on est sous traitement.
+TITRE: Activite physique
+Une activite physique reguliere (marche, 30 minutes par jour si possible)
+aide a mieux controler la glycemie. Il est conseille de verifier sa
+glycemie avant un effort important si on est sous traitement.
+DARIJA: الرياضة بانتظام زي المشي ربع ساعة في النهار كان تقدر تعاونك تتحكم في السكر. أحسنلك تشوف نسبة السكر قبل ما تعمل مجهود كبير كان راك في العلاج.

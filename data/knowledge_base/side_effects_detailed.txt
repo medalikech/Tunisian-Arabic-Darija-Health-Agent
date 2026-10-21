@@ -1,0 +1,21 @@
+TITRE: Troubles digestifs persistants
+Si les troubles digestifs (nausees, diarrhee) persistent au-dela de
+deux a trois semaines malgre la prise pendant les repas, le medecin
+peut ajuster la dose progressivement ou prescrire une forme a liberation
+prolongee, souvent mieux toleree.
+DARIJA: كان مشاكل المعدة كملت أكثر من ثلاثة أسابيع رغم أنك تاخذ الدواء مع الأكلة، الطبيب يقدر يبدل الجرعة شوية شوية أو يعطيك نوع آخر من الدواء أسهل على المعدة.
+
+TITRE: Signes d'une reaction grave necessitant un arret immediat
+Il faut arreter le medicament et consulter en urgence en cas de:
+difficulte a respirer, gonflement du visage ou de la gorge, eruption
+cutanee etendue, douleurs musculaires severes inexpliquees, ou
+faiblesse extreme avec respiration rapide. Ces signes sont rares mais
+serieux.
+DARIJA: لازم توقف الدواء وتشوف طوارئ كان صار عندك: صعوبة في التنفس، تورم في الوجه أو الحلق، طفح كبير في الجلد، أو وجع عضلي قوي مع تنفس سريع. هذوم العلامات نادرة بس خطيرة.
+
+TITRE: Risque de carence en vitamine B12
+Un traitement prolonge par metformine peut parfois reduire l'absorption
+de la vitamine B12. Un controle sanguin periodique (une fois par an
+environ) est souvent recommande pour les patients sous traitement
+depuis plusieurs annees.
+DARIJA: العلاج الطويل بالمتفورمين ممكن ينقص فيتامين B12 في الجسم. أحسنلك تدير تحليل دم مرة في العام كان راك تاخذ الدواء من برشا عام.

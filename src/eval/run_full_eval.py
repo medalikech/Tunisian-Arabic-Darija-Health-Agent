@@ -30,13 +30,35 @@ def run_red_flag_tests():
     import test_red_flags
     test_red_flags.run_tests()
 
+def summarize_rag_results(results):
+    summary = {
+        "generated": 0,
+        "prepared_fallback": 0,
+        "technical_failure": 0,
+        "retrieval_refusal": 0,
+    }
+    for result in results:
+        answer = result.get("answer", "")
+        if result.get("answered") is False:
+            summary["retrieval_refusal"] += 1
+        elif "جواب جاهز مبني على معلومات موثوقة" in answer:
+            summary["prepared_fallback"] += 1
+        elif "مشكل تقني" in answer:
+            summary["technical_failure"] += 1
+        else:
+            summary["generated"] += 1
+    return summary
+
 def run_rag_reliability():
     from rag.eval_reliability import TEST_QUESTIONS
     from rag.qa_agent import answer_question
     results = [answer_question(q) for q in TEST_QUESTIONS]
-    fallback_count = sum(1 for r in results if "مشكل تقني" in r["answer"])
-    print(f"Fallback triggered: {fallback_count}/{len(results)} "
-          f"({fallback_count/len(results)*100:.0f}%)")
+    summary = summarize_rag_results(results)
+    total = len(results)
+    print(f"RAG outcomes ({total} questions):")
+    for outcome, count in summary.items():
+        percentage = count / total * 100 if total else 0
+        print(f"  {outcome}: {count}/{total} ({percentage:.0f}%)")
 
 def main():
     sections = {}

@@ -1,11 +1,13 @@
-TITRE: Quand contacter un médecin
-Il faut contacter son médecin si les effets secondaires digestifs 
-persistent plus de deux semaines, si une nouvelle réaction (éruption 
-cutanée, gonflement) apparaît, ou si la glycémie reste anormalement 
-élevée ou basse de façon répétée malgré le traitement.
+TITRE: Quand contacter un medecin
+Il faut contacter son medecin si les effets secondaires digestifs
+persistent plus de deux semaines, si une nouvelle reaction (eruption
+cutanee, gonflement) apparait, ou si la glycemie reste anormalement
+elevee ou basse de facon repetee malgre le traitement.
+DARIJA: لازم تتصل بطبيبك كان المشاكل الهضمية كملت أكثر من أسبوعين، كان ظهرت طفح أو تورم، أو كان نسبة السكر ما زالت مرتفعة أو منخفضة بالرغم من العلاج.
 
-TITRE: Suivi médical régulier
-Un contrôle médical régulier (tous les 3 à 6 mois) est recommandé pour 
-les patients sous metformine, incluant une évaluation de la fonction 
-rénale, puisque le traitement doit être ajusté si la fonction rénale 
+TITRE: Suivi medical regulier
+Un controle medical regulier (tous les 3 a 6 mois) est recommande pour
+les patients sous metformine, incluant une evaluation de la fonction
+renale, puisque le traitement doit etre ajuste si la fonction renale
 diminue.
+DARIJA: لازم متابعة طبية منتظمة كل 3 لى 6 شهر كان راك تاخذ المتفورمين، باش يشوفو على صحة الكلى متاعك. الجرعة تنجم تتبدل كان صحة الكلى تنقص.

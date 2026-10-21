@@ -68,3 +68,16 @@ def count_recent_red_flags(patient_id: str, days: int = 7) -> int:
     ).fetchone()
     conn.close()
     return row[0]
+def get_recent_context(patient_id: str, n_turns: int = 3) -> list[dict]:
+    """Returns the last n_turns (user message + response) for this patient,
+    oldest first, for use as conversation context. Excludes the current
+    in-progress message (call this before logging the new one)."""
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
+    rows = conn.execute(
+        "SELECT raw_text, response, route FROM messages WHERE patient_id = ? "
+        "ORDER BY timestamp DESC LIMIT ?",
+        (patient_id, n_turns),
+    ).fetchall()
+    conn.close()
+    return [dict(r) for r in reversed(rows)]  # oldest first

@@ -238,4 +238,154 @@
 {"id": "want_to_stop_med_29", "text": "fkert nwa9af chwaya w nchouf kif jismi ya3mal", "intent": "want_to_stop_med", "source": "human"}
 {"id": "want_to_stop_med_30", "text": "واش خطير كان وقفت الدواء شوية شوية", "intent": "want_to_stop_med", "source": "human"}
 {"id": "want_to_stop_med_31", "text": "nhass el dwa ma3adech fayed fiya kima 9bal", "intent": "want_to_stop_med", "source": "human"}
+{"id": "red_flag_suicidal_11", "text": "حسيت روحي زايدة على خاطر العايلة", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_12", "text": "je pense souvent à disparaître ces derniers temps", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_13", "text": "ماعادش نحس بفايدة نحكي مع حتى حد", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_14", "text": "tout me semble vide depuis des semaines", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_15", "text": "نتمنى نرقد ونرقد وما نفيقش", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_16", "text": "je ne vois plus de raison de continuer comme ça", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_17", "text": "ماعادش حابة نتقل على حد بمشاكلي", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_18", "text": "chaque jour est plus lourd que le précédent, je craque", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_19", "text": "حسيت روحي عبء على كل من حولي", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_20", "text": "j'ai l'impression que personne ne remarquerait mon absence", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_21", "text": "نحس بخلاص داخلي، ماعادش نلقى معنى", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_22", "text": "je n'arrive plus à imaginer demain", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_23", "text": "تعبت نحارب، نحب نستسلم", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_24", "text": "mes pensées deviennent de plus en plus sombres", "intent": "red_flag_suicidal", "source": "human"}
+{"id": "red_flag_suicidal_25", "text": "ماعادش نحس بشي، كل حاجة فارغة", "intent": "red_flag_suicidal", "source": "human"}
 {"id": "missed_dose_20", "text": "ندور نعرف شنوة نعمل نسيت دوا اليوم", "intent": "missed_dose", "source": "human"}
+{"id": "want_to_stop_med_32", "text": "الدواء غالي برشا وما نلحقش نشريه كل شهر", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_33", "text": "صاحبي وقف دواءه وهو لاباس، نحب نجرب كيفو", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_34", "text": "je ne crois pas vraiment avoir besoin de ce traitement à vie", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_35", "text": "خايف نولي معتمد على الدواء مدى الحياة", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_36", "text": "j'ai arrêté une semaine et je me sentais pareil, donc pourquoi continuer", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_37", "text": "ماني مقتنع بالتشخيص من الأول، نحب نوقف ونشوف", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_38", "text": "ce traitement coûte cher et je n'ai pas les moyens chaque mois", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_39", "text": "قريت تجارب ناس وقفو الدواء بالأكل الصحي وتحسنو", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_40", "text": "nheb njarreb bla dwa chwaya w nchouf chnowa yousol", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_41", "text": "j'ai honte de prendre des médicaments devant les autres", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_42", "text": "ماعادش نحب يبان عليا مريض قدام الناس", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_43", "text": "je pense que mon corps peut guérir naturellement avec le temps", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_44", "text": "عائلتي تقولي الدواء الكيماوي يضر أكثر مما ينفع", "intent": "want_to_stop_med", "source": "human"}
+{"id": "want_to_stop_med_45", "text": "fkert nwa9af l test w nchouf kif jismi ya3mal wa7dou", "intent": "want_to_stop_med", "source": "human"}
+{"id": "ask_medication_info_16", "text": "كيفاش نحفظ الدواء، في الثلاجة ولا برا", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_17", "text": "est-ce que le médicament est encore bon après la date de péremption", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_18", "text": "شنوة يعمل بالضبط هذا الدواء في جسمي", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_19", "text": "nejjem na5od metformine m3a les compléments alimentaires", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_20", "text": "هل في فرق بين الدواء الأصلي و الجنيس", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_21", "text": "est-ce que je peux prendre ce médicament avec du thé ou du café", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_22", "text": "شنوة نعمل كان خذيت الدواء و بعد شوية تقيأت", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_23", "text": "combien de temps avant que le médicament commence à agir", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_24", "text": "واش الدواء يأثر إذا كنت صايم ساعات طويلة", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_25", "text": "est-ce qu'il y a une marque moins chère avec le même effet", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_26", "text": "كيفاش نعرف الدواء خسر مفعوله ولا ماخسرش", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_27", "text": "est-ce dangereux de prendre ce médicament avec des plantes médicinales", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_28", "text": "شنوة الفرق بين الحبة البيضة والحبة الصفرة لي عندي", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_29", "text": "dois-je éviter l'alcool complètement avec ce traitement", "intent": "ask_medication_info", "source": "human"}
+{"id": "ask_medication_info_30", "text": "وقتاش نعرف إن الجرعة متاعي تحتاج تتبدل", "intent": "ask_medication_info", "source": "human"}
+{"id": "emotional_support_16", "text": "نحس بالخجل كي ناكل قدام الناس ونراقب روحي", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_17", "text": "je suis en colère contre mon corps qui m'a trahi", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_18", "text": "مغبون، ليش أنا بالذات لازم نعيش هكة", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_19", "text": "j'ai l'impression d'avoir perdu ma vie d'avant", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_20", "text": "هذا المرض بدل حياتي بالكامل وما نتقبلهاش بعد", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_21", "text": "je n'arrive plus à me concentrer au travail à cause du stress", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_22", "text": "نحس بالضغط المادي للعلاج فوق كل شيء آخر", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_23", "text": "mes proches ne comprennent pas ce que je traverse vraiment", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_24", "text": "نقارن روحي بالناس اللي ماعندهمش هذا المرض ونحس بالظلم", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_25", "text": "je culpabilise de ne pas avoir pris soin de ma santé avant", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_26", "text": "حاسة إن المرض زاد عبء على عائلتي", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_27", "text": "j'ai du mal à accepter que c'est permanent", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_28", "text": "نحس روحي مختلفة على خاطر المرض و هذا يضايقني", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_29", "text": "mon humeur a beaucoup changé depuis le diagnostic", "intent": "emotional_support", "source": "human"}
+{"id": "emotional_support_30", "text": "نحس بغضب ما نعرفش وين نحطو", "intent": "emotional_support", "source": "human"}
+{"id": "ask_refill_16", "text": "وصلت لآخر شريط، لازمني نجدد توا", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_17", "text": "la pharmacie me demande une nouvelle ordonnance, comment faire", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_18", "text": "ما بقاش عندي ولا حبة، لازمني دواء بالعجلة", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_19", "text": "je dois renouveler mon ordonnance avant la fin du mois", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_20", "text": "وين نلقى الوصفة القديمة باش نجدد بيها", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_21", "text": "mon stock de médicament est fini depuis hier", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_22", "text": "نحتاج موعد عاجل عند الطبيب باش ياخذلي وصفة", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_23", "text": "la pharmacie n'a plus mon médicament en stock", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_24", "text": "شكون نجم يكتبلي وصفة جديدة غير الطبيب متاعي", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_25", "text": "il me reste combien de temps avant de manquer de médicament", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_26", "text": "نحب نعرف كيفاش نطلب الدواء بدون ما نروح للعيادة", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_27", "text": "est-ce que je peux récupérer mon ordonnance chez un autre médecin", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_28", "text": "نسيت نجدد الوصفة ومافيش دواء عندي", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_29", "text": "combien de boîtes puis-je obtenir avec une seule ordonnance", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_30", "text": "الصيدلية قالتلي خاصني وصفة جديدة باش تعطيني الدواء", "intent": "ask_refill", "source": "human"}
+{"id": "red_flag_chest_pain_11", "text": "نحس بثقل كبير في صدري من دقيقتين وما يمشيش", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_12", "text": "la douleur dans ma poitrine irradie vers mon bras gauche", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_13", "text": "صدري يوجعني بزاف كي نتنفس بعمق", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_14", "text": "je sens une oppression forte au milieu de la poitrine", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_15", "text": "حاسة بوجع حاد في صدري ما نعرفش شنوة السبب", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_16", "text": "la douleur est apparue d'un coup et elle est très forte", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_17", "text": "صدري يحرق وما نلحقش نوقف الوجع", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_18", "text": "j'ai mal à la poitrine et j'ai du mal à bouger", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_19", "text": "نحس بضغط قوي في وسط صدري من شوية بالضبط", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_20", "text": "la douleur persiste depuis plus de 15 minutes sans arrêt", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_21", "text": "صدري يوجعني كي نمشي قاع، ما يهداش", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_22", "text": "ça serre très fort dans ma poitrine en ce moment", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_23", "text": "نحس بوجع يمتد من صدري لكتافي", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_24", "text": "la douleur dans la poitrine s'accompagne de sueurs froides", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_chest_pain_25", "text": "صدري يوجعني برشا وقلبي يخبط بسرعة", "intent": "red_flag_chest_pain", "source": "human"}
+{"id": "red_flag_breathing_11", "text": "ما نلحقش نكمل الكلام من صعوبة التنفس", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_12", "text": "je suffoque littéralement depuis quelques minutes", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_13", "text": "نفسي مقطوع وما نقدرش نملى صدري بالهواء", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_14", "text": "ma respiration est très rapide et je ne contrôle plus rien", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_15", "text": "حاسة إني باش نختنق، نفسي ما يمشيش", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_16", "text": "je dois faire un effort énorme juste pour respirer", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_17", "text": "صدري مسكر تماما وما نقدرش ناخذ نفس عميق", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_18", "text": "j'ai l'impression de manquer d'air même assis au calme", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_19", "text": "نتنفس بصفير وصدري ضيق برشا", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_20", "text": "ma respiration devient sifflante et difficile", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_21", "text": "ما نقدرش نرقد من صعوبة التنفس من شوية", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_22", "text": "je panique car je n'arrive pas à reprendre mon souffle", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_23", "text": "نفسي يتقطع وأنا بالكاد نحرك", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_24", "text": "chaque inspiration me demande un effort énorme", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_breathing_25", "text": "نحس بخنقة شديدة في صدري وحلقي", "intent": "red_flag_breathing", "source": "human"}
+{"id": "red_flag_hypoglycemia_11", "text": "يدي ترعش برشا وما نقدرش نثبتها", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_12", "text": "je transpire énormément sans raison et je tremble", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_13", "text": "رأسي يدور وحاسة اني باش نطيح توا", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_14", "text": "ma vision devient floue et je me sens très faible", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_15", "text": "نحس بجوع مفاجئ قوي مع رعشة في جسمي كامل", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_16", "text": "je ne comprends plus ce qu'on me dit, je suis confus", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_17", "text": "قلبي يخبط بسرعة وعرقان برد فجأة", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_18", "text": "j'ai l'impression de perdre connaissance là maintenant", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_19", "text": "يدي ورجلي ترعش وما نلحقش نوقفهم", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_20", "text": "je me sens désorienté et mes mains tremblent fort", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_21", "text": "نحس بدوخة قوية وعرق بارد في كل جسمي", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_22", "text": "mon cœur bat très vite et j'ai des sueurs froides", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_23", "text": "ما نعرفش وين راني، حاسة بتشويش كبير", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_24", "text": "je tremble tellement que je n'arrive pas à tenir mon téléphone", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_hypoglycemia_25", "text": "نحس روحي باش نطيح من الدوخة فجأة", "intent": "red_flag_hypoglycemia", "source": "human"}
+{"id": "red_flag_overdose_11", "text": "خذيت الدواء ثلاث مرات اليوم بالغلط", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_12", "text": "j'ai pris une dose en plus sans m'en rendre compte", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_13", "text": "ما عرفتش قديش خذيت من الحبوب، خذيت برشا", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_14", "text": "je viens de réaliser que j'ai doublé ma dose par erreur", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_15", "text": "خذيت الدواء وبعد نصف ساعة خذيت زيد بالغلط", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_16", "text": "j'ai avalé toute la plaquette par accident", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_17", "text": "نحس بدوخة قوية بعد ما خذيت جرعة زايدة بالغلط", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_18", "text": "mon enfant a peut-être pris mes médicaments par erreur", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_19", "text": "خذيت دواء زيادة على اللي كتبهولي الطبيب", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_20", "text": "je ne me souviens plus combien de comprimés j'ai pris", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_21", "text": "نحس بغثيان قوي وتوة فطنت إني خذيت جرعة مزدوجة", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_22", "text": "j'ai pris le médicament deux fois par confusion ce matin", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_23", "text": "خذيت الحبوب وبعد شوية خذيت زيد نفس الجرعة", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_24", "text": "je crois avoir pris une quantité dangereuse par erreur", "intent": "red_flag_overdose", "source": "human"}
+{"id": "red_flag_overdose_25", "text": "ماخذتش بالي وخذيت جرعتين متقاربين بزاف", "intent": "red_flag_overdose", "source": "human"}
+{"id": "want_to_stop_med_46", "text": "نحس روحي صحيت، شنوة لزوم نكمل نتداوى", "intent": "want_to_stop_med", "source": "human"}
+{"id": "ask_refill_31", "text": "الوصفة متاعي تنتهي صلوحيتها الجمعة الجاية، كيفاش نجدد", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_32", "text": "ma carte de sécurité sociale couvre-t-elle le renouvellement", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_33", "text": "باقيلي يومين بالكل من الدواء، لازمني أعرف وين نلقاه", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_34", "text": "puis-je demander une ordonnance par téléphone ou en ligne", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_35", "text": "الصيدلية القريبة مني ما عندهاش الدواء، وين نلقاه", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_36", "text": "combien de temps faut-il pour obtenir une nouvelle ordonnance", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_37", "text": "نحتاج موعد سريع عند طبيبي غير باش ياخذلي وصفة", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_38", "text": "est-ce que je peux acheter le médicament sans ordonnance cette fois", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_39", "text": "عندي سفرة قريبة ونحتاج دواء يكفيني للمدة كاملة", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_40", "text": "mon assurance exige une nouvelle évaluation avant de renouveler", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_41", "text": "شكون نتصل بيه باش يعطيني وصفة دون ما نستنى دور", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_42", "text": "la pharmacie me dit que l'ordonnance a expiré, que faire", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_43", "text": "نحتاج كمية تكفيني لشهرين لأني مسافر قريبا", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_44", "text": "est-il possible de recevoir le médicament par livraison", "intent": "ask_refill", "source": "human"}
+{"id": "ask_refill_45", "text": "وصلت لآخر علبة وتوقيت موعد الطبيب بعيد برشا", "intent": "ask_refill", "source": "human"}

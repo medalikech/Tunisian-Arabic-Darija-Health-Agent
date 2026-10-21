@@ -252,4 +252,157 @@ want_to_stop_med | nheb n3awed njareb bla dwa b mouwafa9a tbib
 want_to_stop_med | fkert nwa9af chwaya w nchouf kif jismi ya3mal
 want_to_stop_med | واش خطير كان وقفت الدواء شوية شوية
 want_to_stop_med | nhass el dwa ma3adech fayed fiya kima 9bal
+red_flag_suicidal | حسيت روحي زايدة على خاطر العايلة
+red_flag_suicidal | je pense souvent à disparaître ces derniers temps
+red_flag_suicidal | ماعادش نحس بفايدة نحكي مع حتى حد
+red_flag_suicidal | tout me semble vide depuis des semaines
+red_flag_suicidal | نتمنى نرقد ونرقد وما نفيقش
+red_flag_suicidal | je ne vois plus de raison de continuer comme ça
+red_flag_suicidal | ماعادش حابة نتقل على حد بمشاكلي
+red_flag_suicidal | chaque jour est plus lourd que le précédent, je craque
+red_flag_suicidal | حسيت روحي عبء على كل من حولي
+red_flag_suicidal | j'ai l'impression que personne ne remarquerait mon absence
+red_flag_suicidal | نحس بخلاص داخلي، ماعادش نلقى معنى
+red_flag_suicidal | je n'arrive plus à imaginer demain
+red_flag_suicidal | تعبت نحارب، نحب نستسلم
+red_flag_suicidal | mes pensées deviennent de plus en plus sombres
+red_flag_suicidal | ماعادش نحس بشي، كل حاجة فارغة
 missed_dose | ندور نعرف شنوة نعمل نسيت دوا اليوم
+want_to_stop_med | الدواء غالي برشا وما نلحقش نشريه كل شهر
+want_to_stop_med | صاحبي وقف دواءه وهو لاباس، نحب نجرب كيفو
+want_to_stop_med | je ne crois pas vraiment avoir besoin de ce traitement à vie
+want_to_stop_med | خايف نولي معتمد على الدواء مدى الحياة
+want_to_stop_med | j'ai arrêté une semaine et je me sentais pareil, donc pourquoi continuer
+want_to_stop_med | ماني مقتنع بالتشخيص من الأول، نحب نوقف ونشوف
+want_to_stop_med | ce traitement coûte cher et je n'ai pas les moyens chaque mois
+want_to_stop_med | قريت تجارب ناس وقفو الدواء بالأكل الصحي وتحسنو
+want_to_stop_med | nheb njarreb bla dwa chwaya w nchouf chnowa yousol
+want_to_stop_med | j'ai honte de prendre des médicaments devant les autres
+want_to_stop_med | ماعادش نحب يبان عليا مريض قدام الناس
+want_to_stop_med | je pense que mon corps peut guérir naturellement avec le temps
+want_to_stop_med | عائلتي تقولي الدواء الكيماوي يضر أكثر مما ينفع
+want_to_stop_med | fkert nwa9af l test w nchouf kif jismi ya3mal wa7dou
+ask_medication_info | كيفاش نحفظ الدواء، في الثلاجة ولا برا
+ask_medication_info | est-ce que le médicament est encore bon après la date de péremption
+ask_medication_info | شنوة يعمل بالضبط هذا الدواء في جسمي
+ask_medication_info | nejjem na5od metformine m3a les compléments alimentaires
+ask_medication_info | هل في فرق بين الدواء الأصلي و الجنيس
+ask_medication_info | est-ce que je peux prendre ce médicament avec du thé ou du café
+ask_medication_info | شنوة نعمل كان خذيت الدواء و بعد شوية تقيأت
+ask_medication_info | combien de temps avant que le médicament commence à agir
+ask_medication_info | واش الدواء يأثر إذا كنت صايم ساعات طويلة
+ask_medication_info | est-ce qu'il y a une marque moins chère avec le même effet
+ask_medication_info | كيفاش نعرف الدواء خسر مفعوله ولا ماخسرش
+ask_medication_info | est-ce dangereux de prendre ce médicament avec des plantes médicinales
+ask_medication_info | شنوة الفرق بين الحبة البيضة والحبة الصفرة لي عندي
+ask_medication_info | dois-je éviter l'alcool complètement avec ce traitement
+ask_medication_info | وقتاش نعرف إن الجرعة متاعي تحتاج تتبدل
+emotional_support | نحس بالخجل كي ناكل قدام الناس ونراقب روحي
+emotional_support | je suis en colère contre mon corps qui m'a trahi
+emotional_support | مغبون، ليش أنا بالذات لازم نعيش هكة
+emotional_support | j'ai l'impression d'avoir perdu ma vie d'avant
+emotional_support | هذا المرض بدل حياتي بالكامل وما نتقبلهاش بعد
+emotional_support | je n'arrive plus à me concentrer au travail à cause du stress
+emotional_support | نحس بالضغط المادي للعلاج فوق كل شيء آخر
+emotional_support | mes proches ne comprennent pas ce que je traverse vraiment
+emotional_support | نقارن روحي بالناس اللي ماعندهمش هذا المرض ونحس بالظلم
+emotional_support | je culpabilise de ne pas avoir pris soin de ma santé avant
+emotional_support | حاسة إن المرض زاد عبء على عائلتي
+emotional_support | j'ai du mal à accepter que c'est permanent
+emotional_support | نحس روحي مختلفة على خاطر المرض و هذا يضايقني
+emotional_support | mon humeur a beaucoup changé depuis le diagnostic
+emotional_support | نحس بغضب ما نعرفش وين نحطو
+ask_refill | وصلت لآخر شريط، لازمني نجدد توا
+ask_refill | la pharmacie me demande une nouvelle ordonnance, comment faire
+ask_refill | ما بقاش عندي ولا حبة، لازمني دواء بالعجلة
+ask_refill | je dois renouveler mon ordonnance avant la fin du mois
+ask_refill | وين نلقى الوصفة القديمة باش نجدد بيها
+ask_refill | mon stock de médicament est fini depuis hier
+ask_refill | نحتاج موعد عاجل عند الطبيب باش ياخذلي وصفة
+ask_refill | la pharmacie n'a plus mon médicament en stock
+ask_refill | شكون نجم يكتبلي وصفة جديدة غير الطبيب متاعي
+ask_refill | il me reste combien de temps avant de manquer de médicament
+ask_refill | نحب نعرف كيفاش نطلب الدواء بدون ما نروح للعيادة
+ask_refill | est-ce que je peux récupérer mon ordonnance chez un autre médecin
+ask_refill | نسيت نجدد الوصفة ومافيش دواء عندي
+ask_refill | combien de boîtes puis-je obtenir avec une seule ordonnance
+ask_refill | الصيدلية قالتلي خاصني وصفة جديدة باش تعطيني الدواء
+red_flag_chest_pain | نحس بثقل كبير في صدري من دقيقتين وما يمشيش
+red_flag_chest_pain | la douleur dans ma poitrine irradie vers mon bras gauche
+red_flag_chest_pain | صدري يوجعني بزاف كي نتنفس بعمق
+red_flag_chest_pain | je sens une oppression forte au milieu de la poitrine
+red_flag_chest_pain | حاسة بوجع حاد في صدري ما نعرفش شنوة السبب
+red_flag_chest_pain | la douleur est apparue d'un coup et elle est très forte
+red_flag_chest_pain | صدري يحرق وما نلحقش نوقف الوجع
+red_flag_chest_pain | j'ai mal à la poitrine et j'ai du mal à bouger
+red_flag_chest_pain | نحس بضغط قوي في وسط صدري من شوية بالضبط
+red_flag_chest_pain | la douleur persiste depuis plus de 15 minutes sans arrêt
+red_flag_chest_pain | صدري يوجعني كي نمشي قاع، ما يهداش
+red_flag_chest_pain | ça serre très fort dans ma poitrine en ce moment
+red_flag_chest_pain | نحس بوجع يمتد من صدري لكتافي
+red_flag_chest_pain | la douleur dans la poitrine s'accompagne de sueurs froides
+red_flag_chest_pain | صدري يوجعني برشا وقلبي يخبط بسرعة
+
+red_flag_breathing | ما نلحقش نكمل الكلام من صعوبة التنفس
+red_flag_breathing | je suffoque littéralement depuis quelques minutes
+red_flag_breathing | نفسي مقطوع وما نقدرش نملى صدري بالهواء
+red_flag_breathing | ma respiration est très rapide et je ne contrôle plus rien
+red_flag_breathing | حاسة إني باش نختنق، نفسي ما يمشيش
+red_flag_breathing | je dois faire un effort énorme juste pour respirer
+red_flag_breathing | صدري مسكر تماما وما نقدرش ناخذ نفس عميق
+red_flag_breathing | j'ai l'impression de manquer d'air même assis au calme
+red_flag_breathing | نتنفس بصفير وصدري ضيق برشا
+red_flag_breathing | ma respiration devient sifflante et difficile
+red_flag_breathing | ما نقدرش نرقد من صعوبة التنفس من شوية
+red_flag_breathing | je panique car je n'arrive pas à reprendre mon souffle
+red_flag_breathing | نفسي يتقطع وأنا بالكاد نحرك
+red_flag_breathing | chaque inspiration me demande un effort énorme
+red_flag_breathing | نحس بخنقة شديدة في صدري وحلقي
+
+red_flag_hypoglycemia | يدي ترعش برشا وما نقدرش نثبتها
+red_flag_hypoglycemia | je transpire énormément sans raison et je tremble
+red_flag_hypoglycemia | رأسي يدور وحاسة اني باش نطيح توا
+red_flag_hypoglycemia | ma vision devient floue et je me sens très faible
+red_flag_hypoglycemia | نحس بجوع مفاجئ قوي مع رعشة في جسمي كامل
+red_flag_hypoglycemia | je ne comprends plus ce qu'on me dit, je suis confus
+red_flag_hypoglycemia | قلبي يخبط بسرعة وعرقان برد فجأة
+red_flag_hypoglycemia | j'ai l'impression de perdre connaissance là maintenant
+red_flag_hypoglycemia | يدي ورجلي ترعش وما نلحقش نوقفهم
+red_flag_hypoglycemia | je me sens désorienté et mes mains tremblent fort
+red_flag_hypoglycemia | نحس بدوخة قوية وعرق بارد في كل جسمي
+red_flag_hypoglycemia | mon cœur bat très vite et j'ai des sueurs froides
+red_flag_hypoglycemia | ما نعرفش وين راني، حاسة بتشويش كبير
+red_flag_hypoglycemia | je tremble tellement que je n'arrive pas à tenir mon téléphone
+red_flag_hypoglycemia | نحس روحي باش نطيح من الدوخة فجأة
+
+red_flag_overdose | خذيت الدواء ثلاث مرات اليوم بالغلط
+red_flag_overdose | j'ai pris une dose en plus sans m'en rendre compte
+red_flag_overdose | ما عرفتش قديش خذيت من الحبوب، خذيت برشا
+red_flag_overdose | je viens de réaliser que j'ai doublé ma dose par erreur
+red_flag_overdose | خذيت الدواء وبعد نصف ساعة خذيت زيد بالغلط
+red_flag_overdose | j'ai avalé toute la plaquette par accident
+red_flag_overdose | نحس بدوخة قوية بعد ما خذيت جرعة زايدة بالغلط
+red_flag_overdose | mon enfant a peut-être pris mes médicaments par erreur
+red_flag_overdose | خذيت دواء زيادة على اللي كتبهولي الطبيب
+red_flag_overdose | je ne me souviens plus combien de comprimés j'ai pris
+red_flag_overdose | نحس بغثيان قوي وتوة فطنت إني خذيت جرعة مزدوجة
+red_flag_overdose | j'ai pris le médicament deux fois par confusion ce matin
+red_flag_overdose | خذيت الحبوب وبعد شوية خذيت زيد نفس الجرعة
+red_flag_overdose | je crois avoir pris une quantité dangereuse par erreur
+red_flag_overdose | ماخذتش بالي وخذيت جرعتين متقاربين بزاف
+want_to_stop_med | نحس روحي صحيت، شنوة لزوم نكمل نتداوى
+ask_refill | الوصفة متاعي تنتهي صلوحيتها الجمعة الجاية، كيفاش نجدد
+ask_refill | ma carte de sécurité sociale couvre-t-elle le renouvellement
+ask_refill | باقيلي يومين بالكل من الدواء، لازمني أعرف وين نلقاه
+ask_refill | puis-je demander une ordonnance par téléphone ou en ligne
+ask_refill | الصيدلية القريبة مني ما عندهاش الدواء، وين نلقاه
+ask_refill | combien de temps faut-il pour obtenir une nouvelle ordonnance
+ask_refill | نحتاج موعد سريع عند طبيبي غير باش ياخذلي وصفة
+ask_refill | est-ce que je peux acheter le médicament sans ordonnance cette fois
+ask_refill | عندي سفرة قريبة ونحتاج دواء يكفيني للمدة كاملة
+ask_refill | mon assurance exige une nouvelle évaluation avant de renouveler
+ask_refill | شكون نتصل بيه باش يعطيني وصفة دون ما نستنى دور
+ask_refill | la pharmacie me dit que l'ordonnance a expiré, que faire
+ask_refill | نحتاج كمية تكفيني لشهرين لأني مسافر قريبا
+ask_refill | est-il possible de recevoir le médicament par livraison
+ask_refill | وصلت لآخر علبة وتوقيت موعد الطبيب بعيد برشا

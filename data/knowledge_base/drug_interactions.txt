@@ -1,0 +1,12 @@
+TITRE: Interaction avec d'autres medicaments pour le diabete
+La combinaison de la metformine avec d'autres traitements du diabete
+(comme l'insuline ou d'autres comprimes) est courante et se fait sous
+surveillance medicale. Ne jamais ajouter ou combiner des traitements
+sans l'avis du medecin, meme s'ils sont en vente libre.
+DARIJA: خلط المتفورمين مع أدوية أخرى للسكري شي عادي بس لازم تكون تحت مراقبة طبيبك. ما تزيدش أي دواء وحدك بلا ما تسأل الطبيب، حتى كان موجود بلا وصفة.
+
+TITRE: Produits dont il faut parler avant un examen medical
+Avant un examen avec produit de contraste iode (scanner par exemple),
+il faut signaler la prise de metformine, car le medicament doit parfois
+etre interrompu temporairement autour de l'examen sur avis medical.
+DARIJA: قبل أي فحص فيه حقنة ضد الصبغة (مثل السكانر)، قول للطبيب إنك تاخذ المتفورمين، لأن ممكن يقولك توقف الدواء شوية قبل وبعد الفحص.

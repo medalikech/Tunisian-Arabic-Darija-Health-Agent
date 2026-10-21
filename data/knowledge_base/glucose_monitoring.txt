@@ -1,0 +1,22 @@
+TITRE: Comment utiliser un glucometre
+Se laver les mains avant le test. Piquer le doigt sur le cote, pas au
+centre, pour moins de douleur. Appliquer la goutte de sang sur la
+bandelette test. Noter le resultat avec la date et l'heure, idealement
+dans un carnet de suivi ou une application.
+DARIJA: قبل ما تعمل التحليل، اغسل يديك. وخز في جنب الصبع موش في الوسط باش يوجعك أقل. حط النقطة على الشريط. كتب النتيجة مع الوقت والتاريخ باش تقدر تتبع حالتك.
+
+TITRE: Valeurs normales et seuils d'alerte
+A jeun, une glycemie normale se situe generalement entre 0.70 et 1.10
+g/L. Une valeur en dessous de 0.60 g/L est consideree comme une
+hypoglycemie necessitant une action rapide. Une valeur au-dessus de 2.00
+g/L de facon repetee doit etre signalee au medecin. Ces seuils peuvent
+varier selon la prescription individuelle.
+DARIJA: عادة السكر الطبيعي وقت الصوم يكون بين 0.70 و 1.10. كان الرقم تحت 0.60 هذا انخفاض في السكر وخاصك تتصرف بسرعة. كان الرقم فوق 2.00 بصفة متكررة، لازم تقولها لطبيبك. الأرقام هذوم ممكن تتبدل حسب الوصفة الطبية.
+
+TITRE: Frequence recommandee des tests
+La frequence des tests depend du traitement et de la stabilite de la
+glycemie. Pour un traitement oral stable, un test quelques fois par
+semaine peut suffire. En debut de traitement ou en cas de changement de
+dose, des tests plus frequents (quotidiens) sont souvent recommandes par
+le medecin.
+DARIJA: عدد مرات التحليل يتعلق بالعلاج واستقرار السكر. كان العلاج مستقر، التحليل شوية في الجمعة يكفي. كان توة بديت في العلاج أو بدلت الجرعة، الطبيب عادة ينصح تحليل كل يوم.

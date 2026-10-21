@@ -1,18 +1,53 @@
 # Virtual environment
 models/
 venv/
+.venv/
 __pycache__/
 *.pyc
+*.pyo
 
-# Local Ollama/HF cache artifacts (not applicable here, but safe to exclude)
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Test, type-check, and coverage caches
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Ad-hoc/manual test scripts; keep the formal suite in tests/
+/src/agents/test_adherence.py
+/src/agents/test_context.py
+/src/agents/test_escalation.py
+/src/agents/test_followup.py
+/src/agents/test_rag_followup.py
+/src/agents/test_rag_followup2.py
+/src/agents/test_soft_escalation_followup.py
+/src/rag/test_caching.py
+/src/rag/test_new_kb.py
+
+# Local runtime data
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+
+# Local Ollama/HF cache artifacts
 *.log
 
-# Large/regenerable artifacts — rebuildable from the scripts, don't need to be in git
+# Large/regenerable artifacts — rebuildable from the scripts
 data/chroma_db/
 models/*.joblib
 
-# Personal conversation log — contains test data, not meant to be shared
-data/conversations.db
+# Local scratch/export artifacts
+/command.txt
+/get_it.txt
+/next.txt
+/kaggle_upload.zip
+/data/eval/transcripts.md
 
 # OS/editor junk
 .DS_Store

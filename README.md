@@ -65,15 +65,18 @@ SQLite conversation log (every interaction, with routing metadata)
 - **Final choice: TF-IDF baseline**, which matched or beat the transformer at this dataset size.
 
 ### 3.3 Safety layer (`src/safety/`)
-- Regex-based red-flag scanner covering chest pain, breathing difficulty, hypoglycemia, suicidal ideation, and overdose.
+- Regex-based red-flag scanner covering chest pain, breathing difficulty, hypoglycemia, sudden confusion and neurological changes, suicidal ideation, and overdose.
 - Fixed, pre-written emergency responses (never LLM-generated, for consistency and reliability).
-- Tested against a 34-case adversarial suite (33/34 passing — see §5.4).
+- Tested against a small hand-written set of Arabic, Arabizi, French, and English emergency examples, including selected reports about another person, accidental extra medication, and severe low-blood-sugar symptoms; see §5.4 for limitations.
 
 ### 3.4 RAG Q&A agent (`src/rag/`)
 - Knowledge base of short, topic-tagged documents (medication timing, side effects, diet/Ramadan/Eid guidance, refill logistics, when to consult a doctor).
-- Multilingual sentence embeddings + ChromaDB for retrieval, with a similarity threshold gate (refuses to answer if nothing relevant is retrieved).
+- Sentence embeddings + ChromaDB retrieve Tunisian-Arabic questions against Darija fallback text when available, then combine semantic similarity with lexical overlap (including common Arabizi-to-French concept aliases) and return at most one chunk per source; French source text remains the LLM context. A refusal gate requires semantic and lexical support from the same chunk, as a heuristic rather than a guarantee of relevance.
 - Local LLM (Qwen2.5) generates the answer, constrained to the retrieved context only.
-- Output validation (language/script checks) with retry and safe fallback — see §5.5.
+- Output validation checks language/script and overlap with retrieved Darija evidence, with retries and safe fallback — see §5.5.
+- The agent route preserves the filenames of the knowledge-base sources used; the CLI displays them in `--debug` mode for traceability.
+- Medication check-in replies are only recorded when an answer is clearly affirmative or negative; unclear or contradictory replies are clarified rather than counted. Missed-dose responses do not tell the user when to take a dose and direct them to their prescription leaflet or a pharmacist/doctor. This behavior still needs clinical review.
+- `src/rag/eval_retrieval.py` checks retrieval against a small set of Tunisian-Darija questions in Arabic script and Arabizi/code-switching, reporting overall and per-language source Recall@3 and mean reciprocal rank. It also evaluates the refusal gate on supported questions, unrelated questions, and medically adjacent topics outside the knowledge base (such as insulin dosing and diabetic foot care), reporting outcomes by category and listing false refusals and false accepts. These checks do not call the answer-generating LLM; treat the small, hand-written sample as a development check, not clinical validation.
 
 ### 3.5 Agent router (`src/agents/router.py`)
 Ties everything together: safety check → confidence-gated classification → routing to fixed response / RAG / clarification / unhandled placeholder. Every interaction is logged.
@@ -87,6 +90,7 @@ A simple interactive CLI for testing full conversations end-to-end, with an opti
 ### 3.8 Evaluation (`src/eval/`)
 - `export_transcripts.py` — dumps logged conversations to a readable Markdown file.
 - `run_full_eval.py` — runs the classifier report, red-flag test suite, and RAG reliability check in one pass, writing a consolidated summary.
+- Run retrieval-only evaluation with `python src\rag\eval_retrieval.py` after building the index; it uses the configured embedding model and local Chroma collection.
 
 ---
 
@@ -95,8 +99,8 @@ A simple interactive CLI for testing full conversations end-to-end, with an opti
 | Component | Metric | Result |
 |---|---|---|
 | Intent classifier (TF-IDF) | Macro F1 / Accuracy | 0.48 / 0.49 |
-| Red-flag safety layer | Adversarial test suite | 33/34 passed |
-| RAG Q&A agent | Fallback rate (safe degradation) | 40%, with **0%** unsafe/wrong-language output ever reaching the user |
+| Red-flag safety layer | Hand-written scanner examples | 69/69 expected outcomes passed; this is not clinical validation |
+| RAG Q&A agent | Fallback rate in a small development run | 40%; language/script checks do not establish medical correctness |
 
 Full breakdowns are in `data/eval/evaluation_summary.md` and `data/eval/transcripts.md` after running the evaluation scripts.
 
@@ -114,10 +118,10 @@ Local LLMs (both Llama 3.1 and Qwen2.5), even when explicitly prompted for Tunis
 Individual red-flag sub-types (chest pain, breathing, hypoglycemia, overdose, suicidal ideation) had too few examples each for the classifier to learn reliably. Merging them into a single `red_flag_emergency` class for the ML classifier substantially improved detection — while the rule-based layer (which doesn't need large training data) retains fine-grained sub-type detection for response selection. This reflects a deliberate architectural choice: **the classifier's job is coarse triage; the rules handle safety-critical precision.**
 
 ### 5.4 Safety layer: recall over precision, by design
-The red-flag scanner is intentionally tuned to over-trigger rather than under-trigger — a false positive costs an unnecessary "are you okay" message, while a false negative could mean a missed emergency. The one known failing test case (a past-tense, resolved symptom still triggering a response) is an accepted trade-off: adding tense/subject modeling via regex was judged to add more risk (of introducing new false negatives) than the false positive it would remove.
+The red-flag scanner is intentionally tuned to over-trigger rather than under-trigger. Its 69 hand-written examples currently pass, including selected current breathing-emergency reports about another person, accidental extra-medication reports, low-blood-sugar reports involving fainting or inability to swallow, and cause-neutral sudden-confusion and sudden-neurological-change alerts. This small test set does not measure real-world sensitivity or prove safety. The scanner still alerts on at least one past-tense, resolved symptom because it does not model recency; this conservative false positive is recorded as expected behavior, not evidence that the scanner can distinguish current from historical symptoms.
 
 ### 5.5 LLM output reliability
-Across RAG testing, the local Qwen2.5 model occasionally produced corrupted output under this prompt structure — language switching mid-generation (French, Chinese, Cyrillic characters appearing in otherwise-Arabic text) and, with longer or more tightly-constrained prompts, increased failure rates rather than decreased ones. The fix was not better prompting (several iterations were tried, including making this worse) but an **output validation + retry + safe-fallback architecture**: every generated answer is checked for script/language validity before being shown, with up to 3 retries and a clear "technical issue, please consult a pharmacist" fallback. This resulted in a 40% fallback rate but a 0% rate of unsafe or incoherent output reaching the user — the correct trade-off for a healthcare-adjacent system.
+Across RAG testing, the local Qwen2.5 model occasionally produced corrupted output under this prompt structure — language switching mid-generation (French, Chinese, Cyrillic characters appearing in otherwise-Arabic text). The system retries rejected output and can use a prepared fallback. A small development run reported a 40% fallback rate. Script checks and lexical overlap can reject some malformed or weakly grounded outputs, but they do not verify medical correctness, completeness, or patient-specific appropriateness; no claim of zero unsafe output is supported.
 
 ### 5.6 A data corruption bug (and the general lesson)
 Midway through the project, Windows PowerShell's `Get-Content | Set-Content` pipeline was found to silently corrupt Arabic-script text during file merges (while leaving Latin-script text untouched), which had propagated into the trained classifier and caused it to perform at chance level. This was traced systematically by checking each pipeline stage in isolation and fixed by moving all text-file merging to Python's explicit `encoding="utf-8"` file handling. **General lesson: avoid PowerShell for any text processing involving non-ASCII content on Windows; do everything in Python instead**, where encoding is explicit and unambiguous.
@@ -126,7 +130,7 @@ Midway through the project, Windows PowerShell's `Get-Content | Set-Content` pip
 
 ## 6. Known limitations
 
-- **No tense/subject modeling in the safety layer** — past or third-person mentions of red-flag symptoms may trigger a false positive (accepted trade-off, see §5.4).
+- **Limited tense/subject modeling in the safety layer** — selected third-person breathing reports are now detected, but coverage is incomplete and past or resolved symptoms may still trigger alerts (see §5.4).
 - **Dialectal drift in synthetic data** — a portion of LLM-generated training examples lean toward non-Tunisian Arabic dialects despite filtering (see §5.2).
 - **`emotional_support` vs. `red_flag_suicidal` overlap** — these two intents are genuinely ambiguous from text alone; the classifier (and arguably a human reader) sometimes cannot cleanly separate them. The system is deliberately biased toward the safer (emergency) interpretation in ambiguous cases.
 - **RAG generation reliability** — roughly 40% of knowledge-base-grounded queries fail generation and fall back to a "please consult a professional" message rather than a direct answer, due to local LLM instability on code-switched dialectal output (see §5.5).
@@ -174,8 +178,9 @@ python src\data\review_cli.py
 python src\data\merge_seeds.py
 python src\data\split.py
 
-# Train the classifier
-python -m src.nlp.baseline
+# Train the classifier used by the agent router
+New-Item -ItemType Directory -Force models | Out-Null
+python src\nlp\baseline_merged.py
 
 # Index the knowledge base
 python src\rag\build_index.py
@@ -188,5 +193,96 @@ python src\eval\export_transcripts.py
 python src\interface\cli.py --debug
 ```
 
----
+### Test the project
 
+Run these commands from the repository root in PowerShell. The UTF-8 setting
+helps Python print Arabic test output correctly in Windows terminals:
+
+```powershell
+$env:PYTHONUTF8 = "1"
+python -m unittest discover -s tests -p "test_*.py"
+```
+
+This runs the automated unit and integration tests for the safety scanner,
+router, check-in parser, RAG retrieval/generation behavior, escalation storage,
+and web-app authentication/API. The tests use mocks and temporary databases
+where appropriate; passing them does not prove clinical safety or test a live
+Ollama model.
+
+For a fresh local setup, create and activate a virtual environment, then install
+the pinned dependencies:
+
+```powershell
+py -3.12 -m venv venv
+.\venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
+```
+
+To try the complete CLI conversation flow, first build the classifier and
+knowledge-base index. The app loads `models\baseline_merged.joblib`; that
+generated model and the Chroma index are intentionally not stored in Git:
+
+```powershell
+New-Item -ItemType Directory -Force models | Out-Null
+python src\nlp\baseline_merged.py
+python src\rag\build_index.py
+```
+
+The first index build may download the sentence-embedding model. RAG answers
+also require Ollama to be installed and running, with the configured model
+available (default: `mistral:7b`). In a separate terminal, start Ollama if it
+is not already running, then run:
+
+```powershell
+ollama pull mistral:7b
+python src\interface\cli.py --debug
+```
+
+Type a few fictional Darija questions, inspect the debug route and RAG sources,
+then type `bye` to exit. Do not use real patient data.
+
+`python src\eval\run_full_eval.py` is an additional report generator, not a
+replacement for the test command above. It retrains the baseline and calls the
+live RAG path, so it needs the local RAG setup and may update
+`data\eval\evaluation_summary.md`; inspect its output and report for failures
+or fallbacks. The small evaluation sets are development checks, not clinical
+validation.
+
+### Local web-app accounts (prototype only)
+
+The web chat now requires provisioned accounts. Registration is intentionally
+not public. Patient accounts can chat only as their own patient ID; staff
+accounts can chat only for patient IDs explicitly assigned to them.
+
+In PowerShell, initialize the local account database, set a new session secret
+for this terminal, and create accounts with passwords entered interactively:
+
+```powershell
+python src\webapp\manage_users.py init
+$env:DARJA_SESSION_SECRET = (& python -c "import secrets; print(secrets.token_urlsafe(32))")
+python src\webapp\manage_users.py create-user --username patient-demo --role patient --patient-id patient-demo-001
+python src\webapp\manage_users.py create-user --username staff-demo --role staff
+python src\webapp\manage_users.py assign-patient --staff-username staff-demo --patient-id patient-demo-001
+python src\webapp\app.py
+```
+
+Use opaque, non-identifying patient IDs. The session secret must stay private;
+generate and store a stable secret in an appropriate secret manager rather
+than sharing it or committing it. The app binds to `127.0.0.1` for local use.
+If it is ever served over HTTPS in a reviewed environment, set
+`DARJA_HTTPS_ONLY=1` so the session cookie is marked secure.
+
+After five incorrect passwords, that account is temporarily locked for
+15 minutes. A successful login clears earlier failed attempts. This is a
+basic local-prototype safeguard, not a substitute for deployment-level
+rate limiting and monitoring.
+
+**This account system is a local prototype, not approval to enter real patient
+data.** Conversations and health-related records are still stored in SQLite
+without application-level encryption, and this project does not yet provide a
+complete security, privacy, consent, access-review, deletion/retention, backup,
+or regulatory-compliance program. Before any real patient information is
+entered, obtain appropriate legal, privacy, security, and clinical review and
+complete those protections. Until then, use fictional test data only.
+
+---

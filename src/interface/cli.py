@@ -31,6 +31,8 @@ def main():
         if "--debug" in sys.argv:
             print(f"[debug: route={result['route']}, intent={result.get('intent')}, "
                   f"confidence={result.get('confidence')}]\n")
+            if result.get("rag_sources"):
+                print(f"[debug: RAG sources={', '.join(result['rag_sources'])}]\n")
 
 if __name__ == "__main__":
     main()
