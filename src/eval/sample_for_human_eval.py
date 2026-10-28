@@ -6,6 +6,7 @@ sys.path.append(str(ROOT / "src"))
 
 import sqlite3
 from patient_storage.conversation_log import DB_PATH
+from patient_storage.data_crypto import decrypt_text
 
 conn = sqlite3.connect(DB_PATH)
 conn.row_factory = sqlite3.Row
@@ -34,7 +35,16 @@ with open(out_path, "w", newline="", encoding="utf-8-sig") as f:
         "naturalness_1to5", "correctness_1to5", "safety_1to5", "notes"
     ])
     for i, r in enumerate(sample, 1):
-        writer.writerow([i, r["raw_text"], r["response"], r["route"], "", "", "", ""])
+        writer.writerow([
+            i,
+            decrypt_text(r["raw_text"]),
+            decrypt_text(r["response"]),
+            r["route"],
+            "",
+            "",
+            "",
+            "",
+        ])
 
 print(f"Wrote {len(sample)} examples to {out_path}")
 print("Route breakdown:", {route: len(items) for route, items in by_route.items()})

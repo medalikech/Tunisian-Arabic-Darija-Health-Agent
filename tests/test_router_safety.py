@@ -8,6 +8,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.append(str(ROOT / "src"))
 
 from agents import router
+from patient_storage.data_crypto import EncryptionConfigurationError
 from safety.emergency_responses import (
     DEFAULT_ESCALATION_NOTE,
     EMERGENCY_RESPONSES,
@@ -122,6 +123,36 @@ class RouterCheckinSafetyTests(unittest.TestCase):
         self.assertIn("اتصل بخدمات الطوارئ المحلية", result["response"])
         log_escalation.assert_called_once()
         log_error.assert_called_once()
+
+    def test_emergency_response_is_returned_when_encryption_key_is_missing(self):
+        with (
+            patch.object(
+                router,
+                "log_escalation",
+                side_effect=EncryptionConfigurationError(
+                    "DARJA_DATA_ENCRYPTION_KEY is required"
+                ),
+            ),
+            patch.object(
+                router,
+                "log_interaction",
+                side_effect=EncryptionConfigurationError(
+                    "DARJA_DATA_ENCRYPTION_KEY is required"
+                ),
+            ),
+            patch.object(router.logger, "error") as log_error,
+        ):
+            result = router.handle_message(
+                "نحس بوجع قوي في صدري من شوية",
+                patient_id="emergency_missing_key_test",
+            )
+
+        self.assertEqual(result["route"], "emergency")
+        self.assertFalse(result["escalation_logged"])
+        self.assertFalse(result["interaction_logged"])
+        self.assertIn("ما سجلش الحالة", result["response"])
+        self.assertIn("اتصل بخدمات الطوارئ المحلية", result["response"])
+        self.assertEqual(log_error.call_count, 2)
 
     def test_non_emergency_checkin_reply_is_still_recorded(self):
         patient_id = "checkin_reply_test"

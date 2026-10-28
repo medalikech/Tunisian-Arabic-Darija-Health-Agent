@@ -1,5 +1,7 @@
 import sqlite3
 import unittest
+import base64
+import os
 from unittest.mock import Mock, patch
 
 import sys
@@ -12,6 +14,24 @@ from patient_storage import escalation_log
 
 
 class EscalationLogConnectionTests(unittest.TestCase):
+    def setUp(self):
+        self.key_patcher = patch.dict(
+            os.environ,
+            {
+                "DARJA_DATA_ENCRYPTION_KEY": base64.urlsafe_b64encode(
+                    b"test-only-encryption-key-32bytes"
+                ).decode("ascii")
+            },
+        )
+        self.key_patcher.start()
+        self.addCleanup(self.key_patcher.stop)
+        self.key_check_patcher = patch.object(
+            escalation_log,
+            "ensure_database_key",
+        )
+        self.key_check_patcher.start()
+        self.addCleanup(self.key_check_patcher.stop)
+
     def test_database_connections_close_after_successful_operations(self):
         operations = [
             escalation_log.init_escalation_db,

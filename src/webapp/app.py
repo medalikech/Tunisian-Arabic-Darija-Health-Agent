@@ -13,6 +13,7 @@ sys.path.append(str(ROOT / "src"))
 from flask import Flask, g, request, jsonify, render_template, session
 
 from agents.router import handle_message
+from patient_storage.data_crypto import get_encryption_key
 from webapp.auth import (
     authenticate_user,
     can_access_patient,
@@ -31,6 +32,31 @@ app.config.update(
     SESSION_COOKIE_SECURE=os.environ.get("DARJA_HTTPS_ONLY") == "1",
 )
 logger = logging.getLogger(__name__)
+
+
+@app.after_request
+def add_security_headers(response):
+    response.headers["Cache-Control"] = "no-store"
+    response.headers["Pragma"] = "no-cache"
+    response.headers["Expires"] = "0"
+    response.headers["X-Content-Type-Options"] = "nosniff"
+    response.headers["X-Frame-Options"] = "DENY"
+    response.headers["Referrer-Policy"] = "no-referrer"
+    response.headers["Permissions-Policy"] = (
+        "camera=(), microphone=(), geolocation=()"
+    )
+    response.headers["Content-Security-Policy"] = (
+        "default-src 'self'; "
+        "base-uri 'self'; "
+        "form-action 'self'; "
+        "frame-ancestors 'none'; "
+        "object-src 'none'; "
+        "script-src 'self' 'unsafe-inline'; "
+        "style-src 'self' 'unsafe-inline'; "
+        "connect-src 'self'; "
+        "img-src 'self' data:"
+    )
+    return response
 
 
 @app.before_request
@@ -207,4 +233,5 @@ def chat():
 
 
 if __name__ == "__main__":
+    get_encryption_key()
     app.run(host="127.0.0.1", debug=False, port=5000)

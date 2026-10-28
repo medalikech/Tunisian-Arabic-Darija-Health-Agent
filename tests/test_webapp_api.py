@@ -53,6 +53,28 @@ class WebAppApiTests(unittest.TestCase):
         headers["X-CSRF-Token"] = self.csrf_token
         return self.client.post("/api/chat", headers=headers, **kwargs)
 
+    def test_html_and_api_responses_have_privacy_security_headers(self):
+        responses = [
+            self.client.get("/"),
+            self.client.get("/api/auth/csrf"),
+            self.post_chat(json={"message": "Hello"}),
+        ]
+
+        for response in responses:
+            with self.subTest(path=response.request.path):
+                self.assertEqual(response.headers["Cache-Control"], "no-store")
+                self.assertEqual(response.headers["X-Content-Type-Options"], "nosniff")
+                self.assertEqual(response.headers["X-Frame-Options"], "DENY")
+                self.assertEqual(response.headers["Referrer-Policy"], "no-referrer")
+                self.assertEqual(
+                    response.headers["Permissions-Policy"],
+                    "camera=(), microphone=(), geolocation=()",
+                )
+                self.assertIn(
+                    "frame-ancestors 'none'",
+                    response.headers["Content-Security-Policy"],
+                )
+
     @patch("webapp.app.handle_message")
     def test_chat_returns_agent_response(self, handle_message):
         handle_message.return_value = {

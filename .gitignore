@@ -48,6 +48,7 @@ models/*.joblib
 /next.txt
 /kaggle_upload.zip
 /data/eval/transcripts.md
+/data/eval/human_eval_sheet.csv
 
 # OS/editor junk
 .DS_Store

@@ -15,6 +15,7 @@ from nlp.normalize import normalize
 from scheduler.checkin_parser import parse_checkin_reply
 from patient_storage.adherence_log import init_adherence_db, log_dose_event
 from patient_storage.escalation_log import init_escalation_db, log_escalation
+from patient_storage.data_crypto import EncryptionConfigurationError
 
 logger = logging.getLogger(__name__)
 
@@ -100,7 +101,7 @@ def handle_message(raw_text, patient_id="test_patient"):
                 severity="emergency",
                 category=category,
             )
-        except sqlite3.Error as error:
+        except (sqlite3.Error, EncryptionConfigurationError) as error:
             result["escalation_logged"] = False
             result["response"] += (
                 "\n\nتنبيه: التطبيق ما سجلش الحالة وما بعثش إشعار لطبيب "
@@ -117,7 +118,7 @@ def handle_message(raw_text, patient_id="test_patient"):
 
         try:
             log_interaction(patient_id, raw_text, result)
-        except sqlite3.Error as error:
+        except (sqlite3.Error, EncryptionConfigurationError) as error:
             result["interaction_logged"] = False
             logger.error(
                 "Could not record emergency interaction "
@@ -174,6 +175,10 @@ def handle_message(raw_text, patient_id="test_patient"):
             "response": rag_result["answer"],
             "rag_score": rag_result.get("best_score"),
             "rag_sources": rag_result.get("source_files", []),
+            "rag_answered": rag_result.get("answered", False),
+            "rag_retrieval_accepted": rag_result.get("retrieval_accepted", False),
+            "rag_answer_status": rag_result.get("answer_status", "unknown"),
+            "rag_trace": rag_result.get("retrieval_trace", []),
         }
         log_interaction(patient_id, raw_text, result)
         return result
@@ -218,6 +223,10 @@ def handle_message(raw_text, patient_id="test_patient"):
             "response": rag_result["answer"],
             "rag_score": rag_result.get("best_score"),
             "rag_sources": rag_result.get("source_files", []),
+            "rag_answered": rag_result.get("answered", False),
+            "rag_retrieval_accepted": rag_result.get("retrieval_accepted", False),
+            "rag_answer_status": rag_result.get("answer_status", "unknown"),
+            "rag_trace": rag_result.get("retrieval_trace", []),
         }
         log_interaction(patient_id, raw_text, result)
         return result

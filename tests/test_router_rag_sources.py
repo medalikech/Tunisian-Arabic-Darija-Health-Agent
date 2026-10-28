@@ -16,6 +16,19 @@ class RouterRagSourceTests(unittest.TestCase):
             "answer": "A grounded response",
             "best_score": 0.82,
             "source_files": ["metformin_basics.txt", "side_effects_detailed.txt"],
+            "answered": True,
+            "retrieval_accepted": True,
+            "answer_status": "generated",
+            "retrieval_trace": [
+                {
+                    "source": "metformin_basics.txt",
+                    "semantic_score": 0.82,
+                    "lexical_matches": 3,
+                    "lexical_coverage": 0.75,
+                    "passes_relevance_gate": True,
+                    "sent_to_generation": True,
+                }
+            ],
         }
         with (
             patch.object(router, "scan_for_red_flags", return_value=[]),
@@ -41,6 +54,13 @@ class RouterRagSourceTests(unittest.TestCase):
         self.assertEqual(
             result["rag_sources"],
             ["metformin_basics.txt", "side_effects_detailed.txt"],
+        )
+        self.assertTrue(result["rag_answered"])
+        self.assertTrue(result["rag_retrieval_accepted"])
+        self.assertEqual(result["rag_answer_status"], "generated")
+        self.assertEqual(
+            result["rag_trace"],
+            answer_question.return_value["retrieval_trace"],
         )
         log_interaction.assert_called_once()
         self.assertEqual(

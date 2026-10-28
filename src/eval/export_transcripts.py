@@ -8,6 +8,7 @@ ROOT = Path(__file__).resolve().parents[2]
 sys.path.append(str(ROOT / "src"))
 
 from patient_storage.conversation_log import DB_PATH
+from patient_storage.data_crypto import decrypt_text
 import sqlite3
 
 OUT_PATH = ROOT / "data" / "eval" / "transcripts.md"
@@ -32,7 +33,7 @@ def export_all(limit: int = 100):
                 current_patient = row["patient_id"]
                 f.write(f"\n## Patient: {current_patient}\n\n")
 
-            f.write(f"**User:** {row['raw_text']}\n\n")
+            f.write(f"**User:** {decrypt_text(row['raw_text'])}\n\n")
             f.write(f"**Route:** `{row['route']}`")
             if row["intent"]:
                 f.write(f" | **Intent:** `{row['intent']}`")
@@ -42,7 +43,7 @@ def export_all(limit: int = 100):
                 flags = json.loads(row["matched_red_flags"])
                 f.write(f" | **Red flags:** {', '.join(flags)}")
             f.write("\n\n")
-            f.write(f"**Assistant:** {row['response']}\n\n")
+            f.write(f"**Assistant:** {decrypt_text(row['response'])}\n\n")
             f.write("---\n\n")
 
     print(f"Exported {len(rows)} interactions to {OUT_PATH}")
